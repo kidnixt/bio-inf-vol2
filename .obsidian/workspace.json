@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clases/Modulo 1 - Avances en las ciencias ómicas/Aproximaciones ómicas con resolución de célula única.md",
+                "file": "Clases/Modulo 1 - Avances en las ciencias ómicas/Biología espacial - mapeando la expresión génica a su entorno.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aproximaciones ómicas con resolución de célula única"
+              "title": "Biología espacial - mapeando la expresión génica a su entorno"
             }
           }
         ]
@@ -166,8 +166,19 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "70b940a38fbe7e3e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -188,9 +199,32 @@
   },
   "active": "a9cdaae8fe32c973",
   "lastOpenFiles": [
-    "Clases/Modulo 1 - Avances en las ciencias ómicas/Biología espacial - mapeando la expresión génica a su entorno.md",
-    "README.md",
     "Clases/Modulo 1 - Avances en las ciencias ómicas/Aproximaciones ómicas con resolución de célula única.md",
+    "Recursos/Técnicas/Micromanipulación.md",
+    "Recursos/Técnicas/Aislamiento de células individuales.md",
+    "Recursos/Técnicas/Métodos basados en secuenciación.md",
+    "Recursos/Técnicas/Métodos basados en sondas.md",
+    "Recursos/Técnicas/Transcriptómica espacial.md",
+    "Recursos/Técnicas/Proteómica de célula única.md",
+    "Recursos/Técnicas/scRibo-seq.md",
+    "Recursos/Técnicas/scATAC-seq.md",
+    "Recursos/Células/Microglía.md",
+    "Recursos/Biología/Cromatina.md",
+    "Recursos/Técnicas/Microfluídica.md",
+    "Recursos/Técnicas/Citometría de flujo.md",
+    "Recursos/Técnicas/Microdisección por captura láser.md",
+    "Recursos/Técnicas/Dilución al límite.md",
+    "Recursos/Técnicas/scRNA-seq.md",
+    "Recursos/Técnicas/Bulk RNA-seq.md",
+    "Recursos/Células/Célula endotelial.md",
+    "Recursos/Células/Oligodendrocito.md",
+    "Recursos/Células/Astrocito.md",
+    "Recursos/Células/Macroglía.md",
+    "Recursos/Células/Neurona.md",
+    "Recursos/Células/Tejido cerebral.md",
+    "Recursos/Células/Identidad celular.md",
+    "Recursos/Células/Estado celular.md",
+    "Recursos/Células/Tipo celular.md",
     "Recursos/Técnicas",
     "Recursos/Proyectos",
     "Recursos/Personas",
@@ -200,7 +234,6 @@
     "Recursos/Bioinformática",
     "Recursos",
     "Clases/Modulo 1 - Avances en las ciencias ómicas",
-    "Clases",
-    "_test/Biología/prueba ómica.md"
+    "Clases"
   ]
 }
