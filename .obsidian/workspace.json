@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Clases/Modulo 1 - Avances en las ciencias ómicas/Aproximaciones ómicas con resolución de célula única.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Aproximaciones ómicas con resolución de célula única"
             }
           }
         ]
@@ -186,12 +186,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "e8221342a2ea8521",
+  "active": "a9cdaae8fe32c973",
   "lastOpenFiles": [
-    "Modulo 1 - Avances en las ciencias ómicas/Biología espacial - mapeando la expresión génica a su entorno.pdf",
-    "Módulo 4 - Desarrollo y despliegue",
-    "Módulo 3 - Inteligencia Artificial aplicada a Bioinformática",
-    "Módulo 2 - Estado del arte en Biología de Sistemas",
-    "Modulo 1 - Avances en las ciencias ómicas/Aproximaciones ómicas con resolución de célula única.pdf"
+    "Clases/Modulo 1 - Avances en las ciencias ómicas/Biología espacial - mapeando la expresión génica a su entorno.md",
+    "README.md",
+    "Clases/Modulo 1 - Avances en las ciencias ómicas/Aproximaciones ómicas con resolución de célula única.md",
+    "Recursos/Técnicas",
+    "Recursos/Proyectos",
+    "Recursos/Personas",
+    "Recursos/Herramientas",
+    "Recursos/Células",
+    "Recursos/Biología",
+    "Recursos/Bioinformática",
+    "Recursos",
+    "Clases/Modulo 1 - Avances en las ciencias ómicas",
+    "Clases",
+    "_test/Biología/prueba ómica.md"
   ]
 }
