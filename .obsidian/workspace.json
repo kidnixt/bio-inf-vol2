@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clases/Modulo 1 - Avances en las ciencias ómicas/Biología espacial - mapeando la expresión génica a su entorno.md",
+                "file": "Recursos/Personas/Guillermo Eastman.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Biología espacial - mapeando la expresión génica a su entorno"
+              "title": "Guillermo Eastman"
             }
           }
         ]
@@ -199,6 +199,26 @@
   },
   "active": "a9cdaae8fe32c973",
   "lastOpenFiles": [
+    "Fronteras y Perspectivas en Bioinformática - MOC.md",
+    "Clases/Modulo 1 - Avances en las ciencias ómicas/Biología espacial - mapeando la expresión génica a su entorno.md",
+    "Recursos/Personas/IIBCE.md",
+    "Recursos/Personas/Guillermo Eastman.md",
+    "Recursos/Proyectos/Malaria Cell Atlas.md",
+    "Recursos/Proyectos/Human Cell Atlas.md",
+    "Recursos/Proyectos/BRAIN Initiative.md",
+    "Recursos/Proyectos/BICCN.md",
+    "Recursos/Proyectos/Atlas celulares.md",
+    "Clases/Módulo 4 - MOC.md",
+    "Clases/Módulo 3 - MOC.md",
+    "Clases/Módulo 2 - MOC.md",
+    "Clases/Modulo 1 - Avances en las ciencias ómicas/Módulo 1 - MOC.md",
+    "Recursos/Personas/IIBCE",
+    "Recursos/Personas/Guillermo Eastman",
+    "Recursos/Proyectos/Malaria Cell Atlas",
+    "Recursos/Proyectos/BICCN",
+    "Recursos/Proyectos/BRAIN Initiative",
+    "Recursos/Proyectos/Human Cell Atlas",
+    "Recursos/Proyectos/Atlas celulares",
     "Recursos/Bioinformática/Almacenamiento y visualización.md",
     "Recursos/Bioinformática/Integración de datos single cell y spatial.md",
     "Recursos/Bioinformática/Spatial niches.md",
@@ -212,28 +232,8 @@
     "Recursos/Bioinformática/Lateral diffusion.md",
     "Recursos/Bioinformática/Segmentación celular.md",
     "Recursos/Bioinformática/Inteligencia Artificial.md",
-    "Recursos/Bioinformática/Deep Learning.md",
-    "Recursos/Bioinformática/Machine Learning.md",
-    "Recursos/Bioinformática/Integración de datos multiómicos.md",
-    "Recursos/Bioinformática/Gene Ontology.md",
-    "Recursos/Bioinformática/Pseudotiempo.md",
-    "Recursos/Bioinformática/Pseudobulk.md",
-    "Recursos/Bioinformática/Expresión diferencial.md",
-    "Recursos/Bioinformática/Anotación de tipos celulares.md",
-    "Recursos/Bioinformática/Clustering.md",
-    "Recursos/Bioinformática/UMAP.md",
-    "Recursos/Bioinformática/PCA.md",
-    "Recursos/Bioinformática/Reducción dimensional.md",
-    "Recursos/Bioinformática/Genes mitocondriales.md",
     "Recursos/Técnicas",
     "Recursos/Proyectos",
-    "Recursos/Personas",
-    "Recursos/Herramientas",
-    "Recursos/Células",
-    "Recursos/Biología",
-    "Recursos/Bioinformática",
-    "Recursos",
-    "Clases/Modulo 1 - Avances en las ciencias ómicas",
-    "Clases"
+    "Recursos/Personas"
   ]
 }
