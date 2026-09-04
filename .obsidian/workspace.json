@@ -11,10 +11,14 @@
             "id": "a9cdaae8fe32c973",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Clases/Modulo 1 - Avances en las ciencias ómicas/Aproximaciones ómicas con resolución de célula única.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aproximaciones ómicas con resolución de célula única"
             }
           }
         ]
@@ -195,6 +199,9 @@
   },
   "active": "a9cdaae8fe32c973",
   "lastOpenFiles": [
+    "Clases/Módulo 2 - MOC.md",
+    "Clases/Modulo 1 - Avances en las ciencias ómicas/Módulo 1 - MOC.md",
+    "Modulo 1 - Avances en las ciencias ómicas/Aproximaciones ómicas con resolución de célula única.pdf",
     "README.md",
     "Recursos/Personas/Guillermo Eastman.md",
     "Fronteras y Perspectivas en Bioinformática - MOC.md",
@@ -207,8 +214,6 @@
     "Recursos/Proyectos/Atlas celulares.md",
     "Clases/Módulo 4 - MOC.md",
     "Clases/Módulo 3 - MOC.md",
-    "Clases/Módulo 2 - MOC.md",
-    "Clases/Modulo 1 - Avances en las ciencias ómicas/Módulo 1 - MOC.md",
     "Recursos/Personas/IIBCE",
     "Recursos/Personas/Guillermo Eastman",
     "Recursos/Proyectos/Malaria Cell Atlas",
@@ -227,9 +232,7 @@
     "Recursos/Bioinformática/Photobleaching.md",
     "Recursos/Bioinformática/Optical crowding.md",
     "Recursos/Bioinformática/Lateral diffusion.md",
-    "Recursos/Bioinformática/Segmentación celular.md",
     "Recursos/Técnicas",
-    "Recursos/Proyectos",
-    "Recursos/Personas"
+    "Recursos/Proyectos"
   ]
 }
