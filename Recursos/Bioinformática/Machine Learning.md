@@ -30,3 +30,4 @@ Es el tema central del [[Módulo 3 - MOC|Módulo 3: Inteligencia Artificial apli
 ## Aparece en
 
 - [[Aproximaciones ómicas con resolución de célula única]]
+- [[Aplicaciones de la secuenciación con nanoporos en (meta)genómica]]

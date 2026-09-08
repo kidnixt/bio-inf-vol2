@@ -29,3 +29,4 @@ Es la ómica single-cell menos madura de las cuatro. Su integración con [[scRNA
 ## Aparece en
 
 - [[Aproximaciones ómicas con resolución de célula única]]
+- [[Aplicaciones de la secuenciación con nanoporos en (meta)genómica]]
