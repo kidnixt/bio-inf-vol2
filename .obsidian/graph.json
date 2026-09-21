@@ -29,10 +29,17 @@
       }
     },
     {
-      "query": "tag:# ",
+      "query": "tag:#técnica  ",
       "color": {
         "a": 1,
-        "rgb": 5415904
+        "rgb": 5410784
+      }
+    },
+    {
+      "query": "tag: ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
       }
     }
   ],
@@ -46,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3721385605122616,
+  "scale": 0.32934439291940726,
   "close": false
 }

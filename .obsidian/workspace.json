@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2d1b6413390c7524",
+        "id": "53b45b58038aef22",
         "type": "tabs",
         "children": [
           {
-            "id": "a9cdaae8fe32c973",
+            "id": "a943e259d7470d88",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -193,8 +193,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "a9cdaae8fe32c973",
+  "active": "a943e259d7470d88",
   "lastOpenFiles": [
+    "Recursos/Biología/Plásmido.md",
+    "Recursos/Lecturas/Stuart and Satija 2019 - Integrative single-cell analysis.md",
+    "Clases/Módulo 1 - Avances en las ciencias ómicas/Módulo 1 - MOC.md",
+    "Recursos/Técnicas/scRNA-seq.md",
     "Clases/Módulo 2 - Estado del arte en Biología de Sistemas/Intro teórica a modelos metabólicos y aplicaciones en ingeniería metabólica.md",
     "Recursos/Personas/David Deamer.md",
     "Módulo 2 - Estado del arte en Biología de Sistemas/Clase 5 - Modelos metabólicos/Resumen - Modelos metabólicos.pdf",
@@ -213,7 +217,6 @@
     "Recursos/Técnicas/FISH y smFISH.md",
     "Recursos/Técnicas/CITE-seq.md",
     "Recursos/Lecturas/Yue et al 2023 - A guidebook of spatial transcriptomics technologies.md",
-    "Recursos/Lecturas/Stuart and Satija 2019 - Integrative single-cell analysis.md",
     "Recursos/Lecturas/Slovin et al 2021 - scRNA-seq analysis a step-by-step overview.md",
     "Recursos/Lecturas/Shafer 2019 - Cross-species analysis of scRNAseq data.md",
     "Recursos/Lecturas/Schneider et al 2022 - StrainDesign.md",
@@ -227,9 +230,6 @@
     "Recursos/Bioinformática/RNA velocity.md",
     "Recursos/Bioinformática/Genes espacialmente variables.md",
     "Recursos/Bioinformática/Genes altamente variables.md",
-    "Recursos/Bioinformática/Flux Variability Analysis.md",
-    "Recursos/Bioinformática/Deconvolución espacial.md",
-    "Recursos/Bioinformática/Comunicación célula-célula.md",
-    "Clases/Módulo 4 - Desarrollo y despliegue/Módulo 4 - MOC.md"
+    "Recursos/Bioinformática/Flux Variability Analysis.md"
   ]
 }
