@@ -197,8 +197,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "a9cdaae8fe32c973",
+  "active": "e8221342a2ea8521",
   "lastOpenFiles": [
+    "Módulo 2 - Estado del arte en Biología de Sistemas/Sys-Bio2-Ingenieria_metabolica.pdf",
     "Clases/Modulo 1 - Avances en las ciencias ómicas/Aproximaciones ómicas con resolución de célula única.md",
     "Clases/Modulo 1 - Avances en las ciencias ómicas/Biología espacial - mapeando la expresión génica a su entorno.md",
     "Clases/Modulo 1 - Avances en las ciencias ómicas/Aplicaciones de la secuenciación con nanoporos en (meta)genómica.md",
@@ -232,7 +233,6 @@
     "Recursos/Bioinformática/Stage drift.md",
     "Recursos/Bioinformática/Autofluorescencia.md",
     "Recursos/Bioinformática/Photobleaching.md",
-    "Recursos/Bioinformática/Optical crowding.md",
     "Recursos/Técnicas",
     "Recursos/Proyectos"
   ]
