@@ -11,7 +11,7 @@ Curso de la **Universidad ORT** (2026). Índice general del vault.
 | Módulo | Estado |
 |---|---|
 | [[Módulo 1 - MOC\|Módulo 1 — Avances en las ciencias ómicas]] | 3 clases resumidas |
-| [[Módulo 2 - MOC\|Módulo 2 — Estado del arte en Biología de Sistemas]] | Sin material aún |
+| [[Módulo 2 - MOC\|Módulo 2 — Estado del arte en Biología de Sistemas]] | 1 clase resumida (falta el PDF de la clase 4) |
 | [[Módulo 3 - MOC\|Módulo 3 — Inteligencia Artificial aplicada a Bioinformática]] | Sin material aún |
 | [[Módulo 4 - MOC\|Módulo 4 — Desarrollo y despliegue]] | Sin material aún |
 
@@ -36,3 +36,4 @@ Los resúmenes de clase enlazan **inline** a las notas de `Recursos/`. Cada nota
 
 - [[Guillermo Eastman]] ([[IIBCE]]) — [[Módulo 1 - MOC|Módulo 1]]
 - [[Cecilia Salazar]] ([[Institut Pasteur de Montevideo]]) — [[Módulo 1 - MOC|Módulo 1]]
+- [[Ingrid Persitz]] — [[Módulo 2 - MOC|Módulo 2]]

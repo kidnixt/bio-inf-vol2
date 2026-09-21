@@ -39,3 +39,4 @@ Es la frase con la que la clase cierra la sección de desafíos, y la conexión 
 ## Aparece en
 
 - [[Aproximaciones ómicas con resolución de célula única]]
+- [[Intro teórica a modelos metabólicos y aplicaciones en ingeniería metabólica]]

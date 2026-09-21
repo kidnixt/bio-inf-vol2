@@ -39,3 +39,4 @@ Es el objeto del [[Módulo 3 - MOC|Módulo 3: Inteligencia Artificial aplicada a
 
 - [[Aproximaciones ómicas con resolución de célula única]]
 - [[Biología espacial - mapeando la expresión génica a su entorno]]
+- [[Intro teórica a modelos metabólicos y aplicaciones en ingeniería metabólica]]
