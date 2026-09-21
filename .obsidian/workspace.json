@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clases/Modulo 1 - Avances en las ciencias ómicas/Módulo 1 - MOC.md",
+                "file": "Recursos/Personas/David Deamer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Módulo 1 - MOC"
+              "title": "David Deamer"
             }
           }
         ]
@@ -197,8 +197,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "e8221342a2ea8521",
+  "active": "a9cdaae8fe32c973",
   "lastOpenFiles": [
+    "Clases/Módulo 2 - Estado del arte en Biología de Sistemas/Intro teórica a modelos metabólicos y aplicaciones en ingeniería metabólica.md",
+    "Clases/Modulo 1 - Avances en las ciencias ómicas/Biología espacial - mapeando la expresión génica a su entorno.md",
+    "Clases/Modulo 1 - Avances en las ciencias ómicas/Aplicaciones de la secuenciación con nanoporos en (meta)genómica.md",
+    "Clases/Modulo 1 - Avances en las ciencias ómicas/Aproximaciones ómicas con resolución de célula única.md",
+    "Clases/Modulo 1 - Avances en las ciencias ómicas/Módulo 1 - MOC.md",
     "Recursos/Técnicas/Knock-out y knock-in.md",
     "Recursos/Técnicas/Ingeniería metabólica.md",
     "Recursos/Técnicas/Evolución adaptativa de laboratorio.md",
@@ -220,11 +225,6 @@
     "Recursos/Biología/Saccharomyces cerevisiae.md",
     "Recursos/Biología/Pentosas.md",
     "Recursos/Biología/Glucólisis.md",
-    "Recursos/Biología/Escherichia coli.md",
-    "Recursos/Biología/Cofactores energéticos.md",
-    "Recursos/Biología/Catabolismo y anabolismo.md",
-    "Recursos/Bioinformática/SBML.md",
-    "Recursos/Bioinformática/Reacción de biomasa.md",
     "Clases/Módulo 2 - Estado del arte en Biología de Sistemas",
     "Módulo 2 - Estado del arte en Biología de Sistemas/Sys-Bio2-Ingenieria_metabolica.pdf",
     "Modulo 1 - Avances en las ciencias ómicas/Aproximaciones ómicas con resolución de célula única.pdf",
