@@ -5,6 +5,7 @@ modulo: Módulo 2 - Estado del arte en Biología de Sistemas
 docente: Ingrid Persitz
 fecha: 2026-09
 año: 2026
+clase: 5
 tags:
   - clase
   - modulo-2
@@ -16,12 +17,14 @@ tags:
 # Intro teórica a modelos metabólicos y aplicaciones en ingeniería metabólica
 
 > [!info] Ficha de la clase
-> **Curso:** Fronteras y Perspectivas en Bioinformática – Universidad ORT (2026)
+> **Curso:** Fronteras y Perspectivas en Bioinformática – Universidad ORT (2026) · **Clase 5**
 > **Módulo:** [[Módulo 2 - MOC|Módulo 2 - Estado del arte en Biología de Sistemas]]
 > **Docente:** [[Ingrid Persitz]]
 > **Fecha:** setiembre de 2026
-> **PDF original:** `Módulo 2 - Estado del arte en Biología de Sistemas/Sys-Bio2-Ingenieria_metabolica.pdf`
-> **Clase previa (en el vault):** [[Aplicaciones de la secuenciación con nanoporos en (meta)genómica]] — la clase 4 (primera del módulo 2) todavía no está cargada.
+> **Diapositivas:** [[Diapositivas - Intro teórica a modelos metabólicos y aplicaciones en ingeniería metabólica.pdf]]
+> **Resumen de la clase (material del curso):** [[Resumen - Modelos metabólicos.pdf]]
+> **Lecturas:** [[Maarleveld et al 2013 - Basic concepts of stoichiometric modeling of metabolic networks|Maarleveld et al. 2013]] · [[Schneider et al 2022 - StrainDesign|Schneider et al. 2022]]
+> **Clase previa (en el vault):** [[Aplicaciones de la secuenciación con nanoporos en (meta)genómica]] — de la clase 4 (primera del módulo 2) no hay material todavía.
 
 ## De qué va la clase
 
@@ -31,6 +34,12 @@ La clase tiene dos mitades:
 2. **Aplicación:** cómo se usa ese modelo para hacer [[Ingeniería metabólica|ingeniería metabólica]] de forma sistemática, con el [[Diseño computacional de cepas|diseño computacional de cepas]] y la herramienta [[StrainDesign]]. El caso de estudio es obligar a la levadura [[Saccharomyces cerevisiae|*S. cerevisiae*]] a [[Co-consumo de azúcares|consumir tres azúcares a la vez]] (glucosa, xilosa y arabinosa).
 
 La idea que atraviesa todo: pasar de modificar **una pieza por vez** a razonar sobre **la red metabólica completa**, que es exactamente el salto conceptual de la biología de sistemas.
+
+> [!abstract] Cómo leer este resumen
+> Sigue la estructura de las diapositivas. Lo que se **dijo en clase** y no está en las diapositivas (tomado del resumen del curso) va en recuadros *"En la clase"*.
+
+> [!quote] En la clase — la docente y el caso
+> [[Ingrid Persitz]] es Ingeniera en Biotecnología y Máster en Bioinformática y Biología de Sistemas. El caso de estudio de la segunda mitad es **su proyecto de tesis de maestría**. El problema industrial de fondo: la mezcla de glucosa, xilosa y arabinosa sale de la **hidrólisis de lignocelulosa**, y hay que consumirla entera de forma eficiente.
 
 ---
 
@@ -186,6 +195,19 @@ El supuesto implícito: la evolución llevó al organismo a crecer lo más rápi
 | [[MetaCyc]] | Base de datos de vías y enzimas (buscador por gen, proteína, metabolito o vía) |
 | [[BiGG Models]] | Repositorio de GEMs curados listos para usar |
 
+> [!quote] En la clase — el ecosistema completo
+> | Categoría | Herramientas / recursos |
+> |---|---|
+> | Bases de datos | [[BiGG Models]] (*E. coli* core, *E. coli* iML1515, etc.), [[MetaCyc]], **EcoCyc**, **BioCyc** |
+> | Librerías de simulación | **COBRApy** (Python, parte de [[openCOBRA]]), **CBMPy**, **PySCeS** |
+> | Visualización de flujos | **Escher** / Escher-FBA |
+> | Solvers de optimización | **Gurobi**, **CPLEX** |
+>
+> FBA es un problema de **optimización lineal**; bajo el supuesto de estado estacionario vale `S · v = 0`.
+
+> [!tip] Para profundizar
+> [[Maarleveld et al 2013 - Basic concepts of stoichiometric modeling of metabolic networks|Maarleveld et al. (2013)]] desarrolla toda esta sección con una red de juguete y el modelo de *E. coli* iAF1260: espacio nulo, modos de flujo, FBA, **[[Flux Variability Analysis|FVA]]**, precios sombra, EFMs vs rutas extremas y los supuestos de optimalidad.
+
 ---
 
 ## 5. ¿Cómo usamos esto para ingeniería metabólica?
@@ -203,7 +225,7 @@ El [[Diseño computacional de cepas]] busca intervenciones genéticas que **camb
 
 ### StrainDesign: una forma sistemática de encontrar esas intervenciones
 
-[[StrainDesign]] es el método de **Schneider et al. (2022)**. Se basa en tres ideas:
+[[StrainDesign]] es el método de **Schneider et al. (2022)** — ver la lectura [[Schneider et al 2022 - StrainDesign]]. Se basa en tres ideas:
 
 1. **Algoritmo de [[Minimal Cut Sets|Generalized Minimal Cut Sets]]** (gMCS).
 2. **Codificar el fenotipo deseado como regiones del espacio de flujos a PROTEGER (*PROTECT*) o SUPRIMIR (*SUPPRESS*).**
@@ -353,6 +375,9 @@ La descomposición según Remeijer et al. muestra el mismo diseño en tres bloqu
 - **Catabolismo de precursores (pCAT):** alimentado sobre todo por xilosa (y algo de arabinosa); produce NADPH, NADH y bloques de construcción (L-cisteína, isoleucina, acetil-CoA, L-glutamato, L-homocisteína, piruvato, fumarato); libera formiato, tirosol, CO₂ y acetato.
 - **Anabolismo (ANA):** recibe ATP, cofactores reducidos y precursores, más **arabinosa y glucosa directamente**; devuelve ADP, CoA, NAD, NADP, α-cetoglutarato, succinato y L-malato al catabolismo.
 
+> [!quote] En la clase
+> En los diseños destacados, **cada azúcar se canaliza hacia vías esenciales e interdependientes** (formación de glucanos, síntesis de aminoácidos aromáticos, generación de energía): ninguna puede cubrirse con otro azúcar, y por eso la célula se ve obligada a consumir los tres.
+
 ### El paisaje de soluciones
 
 Mirando **qué KO aparecen con más frecuencia** en todos los diseños muestreados:
@@ -419,6 +444,11 @@ La última diapositiva de contenido son dos cajas vacías, **Limitaciones** y **
 
 ---
 
+> [!quote] En la clase — limitaciones que señaló la docente
+> - **Dinámica y regulación:** los modelos estequiométricos de FBA estándar **no incluyen parámetros cinéticos** (K_m, V_max) **ni regulación** de la expresión génica.
+> - **Sesgo en los knock-ins:** los candidatos heterólogos se **preseleccionan a mano** a partir de la literatura.
+> - **Complejidad computacional:** la búsqueda combinatoria de intervenciones exige mucha capacidad de cómputo y límites de tiempo por simulación.
+
 ## Ideas para retener
 
 - Un [[Modelo metabólico a escala genómica|GEM]] es la red metabólica completa de un organismo escrita como una [[Matriz estequiométrica|matriz S]]. Con `S·v = 0` y límites en los flujos define un [[Espacio de flujos factible|espacio de flujos factible]]: todos los fenotipos que el organismo *puede* tener.
@@ -427,6 +457,13 @@ La última diapositiva de contenido son dos cajas vacías, **Limitaciones** y **
 - **Habilitar no es forzar.** Una levadura que *puede* comer xilosa sigue prefiriendo glucosa. El diseño fuerza el co-consumo haciendo que cada azúcar aporte algo que los otros no pueden reemplazar.
 - El método **redescubre** diseños conocidos (PGI, RPE) y **propone blancos no obvios**. Ese es el argumento a favor del enfoque de sistemas frente a la ingeniería metabólica de "una pieza por vez".
 - El cuello de botella ya no es solo computacional: es que estas herramientas **lleguen** a quienes hacen los experimentos.
+
+## Lecturas de la clase
+
+| Lectura | Qué aporta |
+|---|---|
+| [[Maarleveld et al 2013 - Basic concepts of stoichiometric modeling of metabolic networks]] | La base matemática del modelado estequiométrico: de la matriz S al FBA, FVA y modos elementales |
+| [[Schneider et al 2022 - StrainDesign]] | El paper de la herramienta: qué algoritmos integra (OptKnock, RobustKnock, OptCouple, MCS), tipos de intervención y preprocesamiento |
 
 ## Conexiones
 

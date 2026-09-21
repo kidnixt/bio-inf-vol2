@@ -40,3 +40,5 @@ Conecta directamente con el [[Módulo 4 - MOC|Módulo 4: Desarrollo y despliegue
 ## Aparece en
 
 - [[Biología espacial - mapeando la expresión génica a su entorno]]
+- [[Li and Zhou 2026 - Imaging-based Spatial transcriptomics]] *(lectura)*
+- [[Yue et al 2023 - A guidebook of spatial transcriptomics technologies]] *(lectura)*

@@ -30,3 +30,7 @@ Ambas familias dependen de que exista un consenso sobre qué tipos hay y cómo s
 ## Aparece en
 
 - [[Aproximaciones ómicas con resolución de célula única]]
+- [[Li and Zhou 2026 - Imaging-based Spatial transcriptomics]] *(lectura)*
+- [[Shafer 2019 - Cross-species analysis of scRNAseq data]] *(lectura)*
+- [[Slovin et al 2021 - scRNA-seq analysis a step-by-step overview]] *(lectura)*
+- [[Stuart and Satija 2019 - Integrative single-cell analysis]] *(lectura)*
