@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "53b45b58038aef22",
+        "id": "75a55ba7aba10e67",
         "type": "tabs",
         "children": [
           {
-            "id": "a943e259d7470d88",
+            "id": "846c41f438a23cc6",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -193,9 +193,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "a943e259d7470d88",
+  "active": "846c41f438a23cc6",
   "lastOpenFiles": [
     "Recursos/Biología/Plásmido.md",
+    "Recursos/Biología/Metilación del ADN.md",
+    "Recursos/Células/Tipo celular.md",
     "Recursos/Lecturas/Stuart and Satija 2019 - Integrative single-cell analysis.md",
     "Clases/Módulo 1 - Avances en las ciencias ómicas/Módulo 1 - MOC.md",
     "Recursos/Técnicas/scRNA-seq.md",
@@ -228,8 +230,6 @@
     "Recursos/Herramientas/Seurat y Scanpy.md",
     "Recursos/Bioinformática/t-SNE.md",
     "Recursos/Bioinformática/RNA velocity.md",
-    "Recursos/Bioinformática/Genes espacialmente variables.md",
-    "Recursos/Bioinformática/Genes altamente variables.md",
-    "Recursos/Bioinformática/Flux Variability Analysis.md"
+    "Recursos/Bioinformática/Genes espacialmente variables.md"
   ]
 }

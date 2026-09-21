@@ -25,7 +25,7 @@
       "query": "tag:#herramienta  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 14980351
       }
     },
     {
@@ -36,10 +36,24 @@
       }
     },
     {
-      "query": "tag: ",
+      "query": "tag:#lectura  ",
       "color": {
         "a": 1,
         "rgb": 5431473
+      }
+    },
+    {
+      "query": "tag:#concepto  ",
+      "color": {
+        "a": 1,
+        "rgb": 10692573
+      }
+    },
+    {
+      "query": "tag:#biología  ",
+      "color": {
+        "a": 1,
+        "rgb": 1924377
       }
     }
   ],
