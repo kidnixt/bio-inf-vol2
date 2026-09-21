@@ -32,3 +32,4 @@ Las listas de DEGs suelen interpretarse con enriquecimiento funcional — ver [[
 ## Aparece en
 
 - [[Aproximaciones ómicas con resolución de célula única]]
+- [[Slovin et al 2021 - scRNA-seq analysis a step-by-step overview]] *(lectura)*

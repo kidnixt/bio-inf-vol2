@@ -32,3 +32,4 @@ En la ecuación global del diseño, la biomasa aparece normalizada a **1** y tod
 ## Aparece en
 
 - [[Intro teórica a modelos metabólicos y aplicaciones en ingeniería metabólica]]
+- [[Maarleveld et al 2013 - Basic concepts of stoichiometric modeling of metabolic networks]] *(lectura)*

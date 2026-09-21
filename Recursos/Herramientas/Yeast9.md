@@ -24,3 +24,4 @@ En [[PECA]] aparece precargada la variante `yeast9_anaerobic_biggids.xml` (versi
 ## Aparece en
 
 - [[Intro teórica a modelos metabólicos y aplicaciones en ingeniería metabólica]]
+- [[Schneider et al 2022 - StrainDesign]] *(lectura)*

@@ -28,3 +28,4 @@ Un KO no es "apagar una vía": es apagar **una reacción**, y la célula puede t
 ## Aparece en
 
 - [[Intro teórica a modelos metabólicos y aplicaciones en ingeniería metabólica]]
+- [[Schneider et al 2022 - StrainDesign]] *(lectura)*

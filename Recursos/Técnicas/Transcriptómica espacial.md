@@ -51,3 +51,7 @@ Ninguna plataforma optimiza las cuatro. Ver [[GeoMx DSP]], [[CosMx SMI]], [[Visi
 ## Aparece en
 
 - [[Biología espacial - mapeando la expresión génica a su entorno]]
+- [[Li and Zhou 2026 - Imaging-based Spatial transcriptomics]] *(lectura)*
+- [[Longo et al 2021 - Integrating single-cell and spatial transcriptomics]] *(lectura)*
+- [[Slovin et al 2021 - scRNA-seq analysis a step-by-step overview]] *(lectura)*
+- [[Yue et al 2023 - A guidebook of spatial transcriptomics technologies]] *(lectura)*

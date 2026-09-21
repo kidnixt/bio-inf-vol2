@@ -29,3 +29,4 @@ Es la herramienta estándar para **interpretar una lista de DEGs** ([[Expresión
 ## Aparece en
 
 - [[Aproximaciones ómicas con resolución de célula única]]
+- [[Slovin et al 2021 - scRNA-seq analysis a step-by-step overview]] *(lectura)*

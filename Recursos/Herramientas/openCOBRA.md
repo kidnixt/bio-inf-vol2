@@ -15,3 +15,4 @@ En la clase aparece como la primera de las herramientas al responder *"¿cómo s
 ## Aparece en
 
 - [[Intro teórica a modelos metabólicos y aplicaciones en ingeniería metabólica]]
+- [[Schneider et al 2022 - StrainDesign]] *(lectura)*

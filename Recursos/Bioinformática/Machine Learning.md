@@ -32,3 +32,5 @@ Es el tema central del [[Módulo 3 - MOC|Módulo 3: Inteligencia Artificial apli
 - [[Aproximaciones ómicas con resolución de célula única]]
 - [[Aplicaciones de la secuenciación con nanoporos en (meta)genómica]]
 - [[Intro teórica a modelos metabólicos y aplicaciones en ingeniería metabólica]]
+- [[Shafer 2019 - Cross-species analysis of scRNAseq data]] *(lectura)*
+- [[Slovin et al 2021 - scRNA-seq analysis a step-by-step overview]] *(lectura)*

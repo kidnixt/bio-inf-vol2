@@ -32,3 +32,4 @@ Si las imágenes no se alinean con precisión sub-micrométrica, se combinan se�
 ## Aparece en
 
 - [[Biología espacial - mapeando la expresión génica a su entorno]]
+- [[Li and Zhou 2026 - Imaging-based Spatial transcriptomics]] *(lectura)*

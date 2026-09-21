@@ -38,3 +38,4 @@ Fluoróforos más fotoestables, medios anti-fading, minimizar el tiempo de expos
 ## Aparece en
 
 - [[Biología espacial - mapeando la expresión génica a su entorno]]
+- [[Li and Zhou 2026 - Imaging-based Spatial transcriptomics]] *(lectura)*

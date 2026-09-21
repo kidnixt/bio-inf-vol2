@@ -37,3 +37,5 @@ En [[scATAC-seq]] la sparsity es aún **más extrema**: sólo hay 2 copias de ca
 ## Aparece en
 
 - [[Aproximaciones ómicas con resolución de célula única]]
+- [[Slovin et al 2021 - scRNA-seq analysis a step-by-step overview]] *(lectura)*
+- [[Stuart and Satija 2019 - Integrative single-cell analysis]] *(lectura)*

@@ -1,6 +1,6 @@
 ---
 tags: [concepto, biología]
-area: Biología celular
+area: Biología
 ---
 
 # Heterogeneidad celular

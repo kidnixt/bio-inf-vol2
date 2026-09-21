@@ -1,6 +1,6 @@
 ---
 tags: [herramienta, plataforma, secuenciación]
-area: Plataformas
+area: Herramientas
 aliases: [Solexa, SBS, sequencing by synthesis, MiSeq]
 ---
 

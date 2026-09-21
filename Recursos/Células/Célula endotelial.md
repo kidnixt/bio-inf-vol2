@@ -1,6 +1,6 @@
 ---
 tags: [concepto, células, tipo-celular]
-area: Biología celular
+area: Células
 aliases: [células endoteliales, endoteliales]
 ---
 

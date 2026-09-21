@@ -26,7 +26,15 @@ Porque el producto que se quiere es una [[Matriz de conteo]] de genes × célula
 
 Órdenes de magnitud en tiempo y memoria. La clase muestra un benchmark: **20 sets de datos de 30 millones de lecturas, con 20 cores** — un trabajo de horas o días con alineadores clásicos que pasa a resolverse en minutos.
 
-Herramientas típicas de esta familia: kallisto|bustools y salmon/alevin.
+Herramientas típicas de esta familia: kallisto|bustools y salmon/alevin. Según el resumen de la clase, **Kallisto** y **Salmon** mapean directo al transcriptoma usando **grafos de De Bruijn** de k-mers y reducen el cómputo "de días a minutos".
+
+| Pipeline del benchmark de la clase | Tiempo (alineamiento + cuantificación) |
+|---|---|
+| TopHat2 + Cufflinks | ~2.500 min |
+| Bowtie2 + RSEM | ~2.300 min |
+| HISAT + Cufflinks | ~1.200 min |
+| Sailfish | ~100 min |
+| **Kallisto** | unos pocos minutos |
 
 ## Sus límites
 

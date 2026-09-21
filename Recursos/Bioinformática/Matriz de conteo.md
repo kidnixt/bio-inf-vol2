@@ -43,3 +43,4 @@ En [[Transcriptómica espacial]] la matriz gana una tabla asociada de **coordena
 ## Aparece en
 
 - [[Aproximaciones ómicas con resolución de célula única]]
+- [[Slovin et al 2021 - scRNA-seq analysis a step-by-step overview]] *(lectura)*

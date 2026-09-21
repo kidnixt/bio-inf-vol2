@@ -29,3 +29,6 @@ Estos modelos **siempre devuelven un resultado suave y plausible**. En imputaci�
 ## Aparece en
 
 - [[Aproximaciones ómicas con resolución de célula única]]
+- [[Biología espacial - mapeando la expresión génica a su entorno]]
+- [[Li and Zhou 2026 - Imaging-based Spatial transcriptomics]] *(lectura)*
+- [[Longo et al 2021 - Integrating single-cell and spatial transcriptomics]] *(lectura)*

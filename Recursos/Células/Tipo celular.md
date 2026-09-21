@@ -1,6 +1,6 @@
 ---
 tags: [concepto, células]
-area: Biología celular
+area: Células
 ---
 
 # Tipo celular
@@ -36,3 +36,4 @@ Ver [[Anotación de tipos celulares]].
 ## Aparece en
 
 - [[Aproximaciones ómicas con resolución de célula única]]
+- [[Shafer 2019 - Cross-species analysis of scRNAseq data]] *(lectura)*

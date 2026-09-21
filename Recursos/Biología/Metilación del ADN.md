@@ -47,3 +47,4 @@ La contracara aparece en el [[Perfil de error]]: 5mC, 6mA y otras modificaciones
 ## Aparece en
 
 - [[Aplicaciones de la secuenciación con nanoporos en (meta)genómica]]
+- [[Stuart and Satija 2019 - Integrative single-cell analysis]] *(lectura)*

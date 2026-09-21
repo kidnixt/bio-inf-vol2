@@ -36,3 +36,5 @@ Un problema práctico: distinguir barcodes de células reales de barcodes de **g
 ## Aparece en
 
 - [[Aproximaciones ómicas con resolución de célula única]]
+- [[Slovin et al 2021 - scRNA-seq analysis a step-by-step overview]] *(lectura)*
+- [[Stuart and Satija 2019 - Integrative single-cell analysis]] *(lectura)*

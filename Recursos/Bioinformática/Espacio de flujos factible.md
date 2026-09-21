@@ -33,3 +33,5 @@ Un [[Knock-out y knock-in|knock-out]] fija un flujo en 0 y **recorta** el polied
 ## Aparece en
 
 - [[Intro teórica a modelos metabólicos y aplicaciones en ingeniería metabólica]]
+- [[Maarleveld et al 2013 - Basic concepts of stoichiometric modeling of metabolic networks]] *(lectura)*
+- [[Schneider et al 2022 - StrainDesign]] *(lectura)*

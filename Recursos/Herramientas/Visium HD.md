@@ -1,6 +1,6 @@
 ---
 tags: [herramienta, plataforma, espacial]
-area: Plataformas
+area: Herramientas
 ---
 
 # Visium HD
@@ -35,3 +35,4 @@ Es la combinación más equilibrada de las tres plataformas que compara la clase
 ## Aparece en
 
 - [[Biología espacial - mapeando la expresión génica a su entorno]]
+- [[Yue et al 2023 - A guidebook of spatial transcriptomics technologies]] *(lectura)*

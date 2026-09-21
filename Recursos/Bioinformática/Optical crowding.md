@@ -31,3 +31,5 @@ Es una de las razones por las que estos métodos trabajan con paneles **dirigido
 ## Aparece en
 
 - [[Biología espacial - mapeando la expresión génica a su entorno]]
+- [[Li and Zhou 2026 - Imaging-based Spatial transcriptomics]] *(lectura)*
+- [[Longo et al 2021 - Integrating single-cell and spatial transcriptomics]] *(lectura)*

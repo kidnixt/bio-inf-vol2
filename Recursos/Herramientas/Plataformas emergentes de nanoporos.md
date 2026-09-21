@@ -1,6 +1,6 @@
 ---
 tags: [herramienta, plataforma, nanoporos, emergente]
-area: Plataformas
+area: Herramientas
 aliases: [QitanTech, QNome, CycloneSEQ, MGI, PolyseqOne, AxiLona, Axbio, Gseq-500, Geneus, QNome-3841]
 ---
 

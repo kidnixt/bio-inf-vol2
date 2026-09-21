@@ -40,3 +40,7 @@ Para plataformas de célula única ([[CosMx SMI]], [[Visium HD]]): asignar a cad
 ## Aparece en
 
 - [[Biología espacial - mapeando la expresión génica a su entorno]]
+- [[Li and Zhou 2026 - Imaging-based Spatial transcriptomics]] *(lectura)*
+- [[Longo et al 2021 - Integrating single-cell and spatial transcriptomics]] *(lectura)*
+- [[Stuart and Satija 2019 - Integrative single-cell analysis]] *(lectura)*
+- [[Yue et al 2023 - A guidebook of spatial transcriptomics technologies]] *(lectura)*

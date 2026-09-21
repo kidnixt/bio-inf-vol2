@@ -36,3 +36,5 @@ Es aún **más escaso** que el scRNA-seq: cada locus tiene sólo 2 copias por c�
 ## Aparece en
 
 - [[Aproximaciones ómicas con resolución de célula única]]
+- [[Longo et al 2021 - Integrating single-cell and spatial transcriptomics]] *(lectura)*
+- [[Stuart and Satija 2019 - Integrative single-cell analysis]] *(lectura)*

@@ -40,3 +40,5 @@ Es la frase con la que la clase cierra la sección de desafíos, y la conexión 
 
 - [[Aproximaciones ómicas con resolución de célula única]]
 - [[Intro teórica a modelos metabólicos y aplicaciones en ingeniería metabólica]]
+- [[Slovin et al 2021 - scRNA-seq analysis a step-by-step overview]] *(lectura)*
+- [[Stuart and Satija 2019 - Integrative single-cell analysis]] *(lectura)*

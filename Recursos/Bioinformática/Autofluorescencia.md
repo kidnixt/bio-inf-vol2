@@ -28,3 +28,4 @@ Tratamientos de quenching químico, imágenes de control sin sondas para sustrae
 ## Aparece en
 
 - [[Biología espacial - mapeando la expresión génica a su entorno]]
+- [[Li and Zhou 2026 - Imaging-based Spatial transcriptomics]] *(lectura)*

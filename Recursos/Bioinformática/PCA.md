@@ -27,3 +27,6 @@ En [[Bulk RNA-seq]] el PCA sí se usa directamente para visualizar: con 6–10 m
 ## Aparece en
 
 - [[Aproximaciones ómicas con resolución de célula única]]
+- [[Shafer 2019 - Cross-species analysis of scRNAseq data]] *(lectura)*
+- [[Slovin et al 2021 - scRNA-seq analysis a step-by-step overview]] *(lectura)*
+- [[Stuart and Satija 2019 - Integrative single-cell analysis]] *(lectura)*

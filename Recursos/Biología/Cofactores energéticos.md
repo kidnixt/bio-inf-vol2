@@ -28,3 +28,4 @@ En la descomposición [[Catabolismo y anabolismo|eCAT/pCAT/ANA]], ATP, NADPH y N
 ## Aparece en
 
 - [[Intro teórica a modelos metabólicos y aplicaciones en ingeniería metabólica]]
+- [[Maarleveld et al 2013 - Basic concepts of stoichiometric modeling of metabolic networks]] *(lectura)*

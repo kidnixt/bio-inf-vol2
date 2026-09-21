@@ -11,3 +11,8 @@ Instituto de investigación biomédica en Montevideo, parte de la Red Internacio
 En el contexto del curso aparece como uno de los polos locales de **genómica microbiana**: los trabajos citados en la clase sobre diseminación de [[Resistencia antimicrobiana|resistencia antimicrobiana]] en el ambiente urbano de Montevideo y sobre la primera detección de *Klebsiella pneumoniae* ST15 con OXA-48 en Sudamérica salieron de ese entorno, al igual que el pipeline [[Porefile]].
 
 Junto con el [[IIBCE]], es una de las dos instituciones uruguayas de investigación representadas entre los docentes del módulo.
+
+## Aparece en
+
+- [[Aproximaciones ómicas con resolución de célula única]]
+- [[Aplicaciones de la secuenciación con nanoporos en (meta)genómica]]

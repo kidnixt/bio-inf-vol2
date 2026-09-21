@@ -1,6 +1,6 @@
 ---
 tags: [concepto, biología]
-area: Biología molecular
+area: Biología
 aliases: [ARNm, mRNA]
 ---
 

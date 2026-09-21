@@ -14,3 +14,8 @@ Es la afiliación de [[Guillermo Eastman]] (Departamento de Genómica), docente 
 
 - [[Aproximaciones ómicas con resolución de célula única]]
 - [[Biología espacial - mapeando la expresión génica a su entorno]]
+
+## Aparece en
+
+- [[Aproximaciones ómicas con resolución de célula única]]
+- [[Biología espacial - mapeando la expresión génica a su entorno]]

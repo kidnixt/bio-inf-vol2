@@ -19,3 +19,4 @@ Combinada con secuenciación profunda por célula, es la vía "pocas células, m
 ## Aparece en
 
 - [[Aproximaciones ómicas con resolución de célula única]]
+- [[Stuart and Satija 2019 - Integrative single-cell analysis]] *(lectura)*

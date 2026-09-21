@@ -1,6 +1,6 @@
 ---
 tags: [herramienta, plataforma, nanoporos]
-area: Plataformas
+area: Herramientas
 aliases: [MinION, GridION, PromethION, Flongle, flow cell, MinKNOW]
 ---
 

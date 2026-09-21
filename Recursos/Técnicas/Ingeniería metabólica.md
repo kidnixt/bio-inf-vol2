@@ -41,3 +41,4 @@ Los métodos computacionales existen y funcionan, pero quienes hacen los experim
 ## Aparece en
 
 - [[Intro teórica a modelos metabólicos y aplicaciones en ingeniería metabólica]]
+- [[Schneider et al 2022 - StrainDesign]] *(lectura)*

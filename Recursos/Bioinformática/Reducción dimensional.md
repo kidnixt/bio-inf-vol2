@@ -34,3 +34,5 @@ Cada paso descarta información deliberadamente. El [[PCA]] hace el trabajo estr
 
 - [[Aproximaciones ómicas con resolución de célula única]]
 - [[Biología espacial - mapeando la expresión génica a su entorno]]
+- [[Slovin et al 2021 - scRNA-seq analysis a step-by-step overview]] *(lectura)*
+- [[Yue et al 2023 - A guidebook of spatial transcriptomics technologies]] *(lectura)*

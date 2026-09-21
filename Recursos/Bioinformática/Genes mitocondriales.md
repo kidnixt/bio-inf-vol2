@@ -31,3 +31,4 @@ El umbral es **específico del tejido**. Células con alta demanda energética (
 ## Aparece en
 
 - [[Aproximaciones ómicas con resolución de célula única]]
+- [[Slovin et al 2021 - scRNA-seq analysis a step-by-step overview]] *(lectura)*

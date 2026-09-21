@@ -1,6 +1,6 @@
 ---
 tags: [concepto, células]
-area: Biología celular
+area: Células
 aliases: [estados celulares, estadío celular]
 ---
 

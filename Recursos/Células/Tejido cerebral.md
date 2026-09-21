@@ -1,6 +1,6 @@
 ---
 tags: [concepto, células, ejemplo]
-area: Neurobiología
+area: Células
 ---
 
 # Tejido cerebral

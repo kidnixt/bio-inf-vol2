@@ -1,6 +1,6 @@
 ---
 tags: [herramienta, empresa, espacial]
-area: Plataformas
+area: Herramientas
 ---
 
 # Nanostring
@@ -17,3 +17,4 @@ Que la misma empresa venda ambas ilustra el punto central de la clase: **no hay 
 ## Aparece en
 
 - [[Biología espacial - mapeando la expresión génica a su entorno]]
+- [[Yue et al 2023 - A guidebook of spatial transcriptomics technologies]] *(lectura)*

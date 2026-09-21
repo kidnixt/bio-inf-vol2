@@ -1,6 +1,6 @@
 ---
 tags: [concepto, células, tipo-celular]
-area: Neurobiología
+area: Células
 aliases: [microglías, microglia]
 ---
 

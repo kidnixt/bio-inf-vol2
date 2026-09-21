@@ -30,3 +30,8 @@ Los métodos de corrección de batch son los mismos que se usan para [[Integraci
 ## Aparece en
 
 - [[Aproximaciones ómicas con resolución de célula única]]
+- [[Longo et al 2021 - Integrating single-cell and spatial transcriptomics]] *(lectura)*
+- [[Shafer 2019 - Cross-species analysis of scRNAseq data]] *(lectura)*
+- [[Slovin et al 2021 - scRNA-seq analysis a step-by-step overview]] *(lectura)*
+- [[Stuart and Satija 2019 - Integrative single-cell analysis]] *(lectura)*
+- [[Yue et al 2023 - A guidebook of spatial transcriptomics technologies]] *(lectura)*

@@ -51,3 +51,4 @@ Cuando la pregunta es sobre la muestra como un todo, cuando el tejido es razonab
 
 - [[Aproximaciones ómicas con resolución de célula única]]
 - [[Biología espacial - mapeando la expresión génica a su entorno]]
+- [[Slovin et al 2021 - scRNA-seq analysis a step-by-step overview]] *(lectura)*

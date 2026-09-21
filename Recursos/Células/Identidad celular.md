@@ -1,6 +1,6 @@
 ---
 tags: [concepto, células, desafío]
-area: Biología celular
+area: Células
 ---
 
 # Identidad celular
@@ -23,3 +23,5 @@ La respuesta operativa que da la clase es: una célula se define **en función d
 ## Aparece en
 
 - [[Aproximaciones ómicas con resolución de célula única]]
+- [[Shafer 2019 - Cross-species analysis of scRNAseq data]] *(lectura)*
+- [[Stuart and Satija 2019 - Integrative single-cell analysis]] *(lectura)*

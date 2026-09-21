@@ -35,3 +35,5 @@ El ecosistema de software asociado se llama COBRA (*COnstraint-Based Reconstruct
 ## Aparece en
 
 - [[Intro teórica a modelos metabólicos y aplicaciones en ingeniería metabólica]]
+- [[Maarleveld et al 2013 - Basic concepts of stoichiometric modeling of metabolic networks]] *(lectura)*
+- [[Schneider et al 2022 - StrainDesign]] *(lectura)*

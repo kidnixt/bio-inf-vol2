@@ -39,3 +39,5 @@ La clase sitúa el arranque de esta familia hacia 2008–2009. Ejemplos: [[Visiu
 ## Aparece en
 
 - [[Biología espacial - mapeando la expresión génica a su entorno]]
+- [[Longo et al 2021 - Integrating single-cell and spatial transcriptomics]] *(lectura)*
+- [[Yue et al 2023 - A guidebook of spatial transcriptomics technologies]] *(lectura)*

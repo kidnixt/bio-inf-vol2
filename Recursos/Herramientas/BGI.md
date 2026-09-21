@@ -1,12 +1,11 @@
 ---
 tags: [herramienta, empresa, espacial]
-area: Plataformas
-aliases: [Stereo-seq]
+area: Herramientas
 ---
 
 # BGI
 
-Compañía genómica china que aparece en **2021** en la línea de tiempo de la clase con **Stereo-seq**, dentro de la familia de [[Métodos basados en secuenciación]].
+Compañía genómica china que aparece en **2021** en la línea de tiempo de la clase con **[[Stereo-seq]]**, dentro de la familia de [[Métodos basados en secuenciación]].
 
 ## Qué aporta Stereo-seq
 
@@ -17,3 +16,4 @@ Es un buen contrapunto a [[Visium HD]] dentro de la misma familia técnica.
 ## Aparece en
 
 - [[Biología espacial - mapeando la expresión génica a su entorno]]
+- [[Yue et al 2023 - A guidebook of spatial transcriptomics technologies]] *(lectura)*

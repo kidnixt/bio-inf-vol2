@@ -29,3 +29,5 @@ También es sensible a sus hiperparámetros (número de vecinos, distancia míni
 
 - [[Aproximaciones ómicas con resolución de célula única]]
 - [[Biología espacial - mapeando la expresión génica a su entorno]]
+- [[Shafer 2019 - Cross-species analysis of scRNAseq data]] *(lectura)*
+- [[Slovin et al 2021 - scRNA-seq analysis a step-by-step overview]] *(lectura)*

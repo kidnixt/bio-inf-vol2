@@ -36,3 +36,5 @@ La clase de [[Biología espacial - mapeando la expresión génica a su entorno|b
 
 - [[Aproximaciones ómicas con resolución de célula única]]
 - [[Biología espacial - mapeando la expresión génica a su entorno]]
+- [[Li and Zhou 2026 - Imaging-based Spatial transcriptomics]] *(lectura)*
+- [[Shafer 2019 - Cross-species analysis of scRNAseq data]] *(lectura)*

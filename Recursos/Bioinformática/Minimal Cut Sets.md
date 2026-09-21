@@ -39,3 +39,4 @@ Es el concepto dual del [[Análisis de modos elementales]]: los modos elementale
 ## Aparece en
 
 - [[Intro teórica a modelos metabólicos y aplicaciones en ingeniería metabólica]]
+- [[Schneider et al 2022 - StrainDesign]] *(lectura)*

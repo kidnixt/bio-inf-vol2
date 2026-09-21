@@ -1,6 +1,6 @@
 ---
 tags: [herramienta, plataforma, secuenciación, lecturas-largas]
-area: Plataformas
+area: Herramientas
 aliases: [Pacific Biosciences, HiFi, PacBio HiFi, Revio, SMRT, ZMW]
 ---
 

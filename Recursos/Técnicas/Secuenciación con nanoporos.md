@@ -56,3 +56,4 @@ Nace del cuaderno de [[David Deamer]] del **25 de junio de 1989**, y de la conve
 ## Aparece en
 
 - [[Aplicaciones de la secuenciación con nanoporos en (meta)genómica]]
+- [[Stuart and Satija 2019 - Integrative single-cell analysis]] *(lectura)*

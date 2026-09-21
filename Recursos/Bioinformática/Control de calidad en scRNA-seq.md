@@ -33,6 +33,18 @@ Se grafican como distribuciones (violin plots) y se fijan umbrales. La advertenc
 
 Filtrar de más elimina tipos celulares reales (las [[Neurona|neuronas]] frágiles, por ejemplo); filtrar de menos deja dobletes y basura que después aparecen como "clusters" espurios en el [[Clustering]].
 
+## Los números de la clase y de las lecturas
+
+- En las curvas de densidad de la clase, los umbrales están en ~**500 UMIs**, ~**300 genes** y ~**0,2** de fracción mitocondrial por célula.
+- En el esquema del pipeline, el filtrado separa **célula vs gota vacía**, **apoptóticas vs no apoptóticas** y **singletes vs multipletes**.
+- [[Slovin et al 2021 - scRNA-seq analysis a step-by-step overview|Slovin et al. (2021)]]:
+  - Las gotas vacías traen **ARN ambiente** (de células lisadas); **EmptyDrops** las detecta comparando cada barcode contra el perfil ambiente (modelo Dirichlet-multinomial + permutaciones + FDR).
+  - Umbral mitocondrial habitual: **10 %**, ajustado al modelo (tumores y tejidos muy respiratorios tienen más).
+  - Los multipletes se filtran como outliers de profundidad, **por muestra**.
+  - Umbrales **lo más permisivos posible** para no perder poblaciones raras; < 70 % de lecturas asignadas a barcodes sugiere mucho ARN ambiente.
+- En la clase también se mencionó que la baja tasa de captura deja **500–3.000 genes por célula**.
+
 ## Aparece en
 
 - [[Aproximaciones ómicas con resolución de célula única]]
+- [[Slovin et al 2021 - scRNA-seq analysis a step-by-step overview]] *(lectura)*

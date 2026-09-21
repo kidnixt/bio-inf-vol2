@@ -23,3 +23,4 @@ La clase la agrupa entre las técnicas **poco automatizadas y poco eficientes** 
 ## Aparece en
 
 - [[Aproximaciones ómicas con resolución de célula única]]
+- [[Longo et al 2021 - Integrating single-cell and spatial transcriptomics]] *(lectura)*

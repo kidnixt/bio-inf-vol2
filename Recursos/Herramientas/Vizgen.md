@@ -1,12 +1,11 @@
 ---
 tags: [herramienta, empresa, espacial]
-area: Plataformas
-aliases: [MERFISH, MERSCOPE]
+area: Herramientas
 ---
 
 # Vizgen
 
-Empresa que comercializa **MERFISH** (*Multiplexed Error-Robust Fluorescence In Situ Hybridization*), uno de los métodos fundacionales de la familia de [[Métodos basados en sondas]]. Aparece en **2016** en la línea de tiempo de la clase, como el primer actor comercial de la ola espacial moderna.
+Empresa que comercializa **[[MERFISH]]** (instrumento MERSCOPE) (*Multiplexed Error-Robust Fluorescence In Situ Hybridization*), uno de los métodos fundacionales de la familia de [[Métodos basados en sondas]]. Aparece en **2016** en la línea de tiempo de la clase, como el primer actor comercial de la ola espacial moderna.
 
 ## Qué aporta MERFISH
 
@@ -15,3 +14,5 @@ Codificación combinatoria **con corrección de errores**: cada gen recibe una f
 ## Aparece en
 
 - [[Biología espacial - mapeando la expresión génica a su entorno]]
+- [[Li and Zhou 2026 - Imaging-based Spatial transcriptomics]] *(lectura)*
+- [[Yue et al 2023 - A guidebook of spatial transcriptomics technologies]] *(lectura)*

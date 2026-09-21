@@ -45,3 +45,5 @@ El modelo es tan bueno como su reconstrucción: una reacción que falta o una an
 ## Aparece en
 
 - [[Intro teórica a modelos metabólicos y aplicaciones en ingeniería metabólica]]
+- [[Maarleveld et al 2013 - Basic concepts of stoichiometric modeling of metabolic networks]] *(lectura)*
+- [[Schneider et al 2022 - StrainDesign]] *(lectura)*

@@ -19,3 +19,4 @@ Que las [[Plataformas emergentes de nanoporos|plataformas emergentes]] declaren 
 ## Aparece en
 
 - [[Aplicaciones de la secuenciación con nanoporos en (meta)genómica]]
+- [[Slovin et al 2021 - scRNA-seq analysis a step-by-step overview]] *(lectura)*

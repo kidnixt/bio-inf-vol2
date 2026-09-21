@@ -24,6 +24,12 @@ El algoritmo tiene un parámetro de resolución que determina **cuántos cluster
 
 Esto conecta directamente con el desafío de la [[Identidad celular]]: la jerarquía `[Clase General] ➜ [Subclase] ➜ [Clúster]` que la clase muestra para el [[Tejido cerebral]] no es un hecho de la naturaleza, es en buena parte una consecuencia de dónde se fijó la resolución.
 
+## Alternativas y el valor por defecto
+
+[[Slovin et al 2021 - scRNA-seq analysis a step-by-step overview|Slovin et al. (2021)]] compara tres familias: **k-means** (rápido, pero hay que fijar *k*), **jerárquico** (dendrograma; lento en datasets grandes) y **detección de comunidades** (escala a millones de células). En el grafo k-NN, el peso de cada arista se refina por **similitud de Jaccard** (vecinos compartidos) y Louvain maximiza la **modularidad**. Usan resolución **0,5** como compromiso razonable. Ver [[Seurat y Scanpy]].
+
+En la figura de la clase, el clustering se hace **en el espacio de ~50 PCs** (grafo k-NN con *k* = 3 en el dibujo), y [[t-SNE]]/[[UMAP]] solo se usan para visualizar el resultado.
+
 ## Cuidados
 
 - Un cluster puede reflejar un [[Batch effect]] y no biología. Si los clusters coinciden con las muestras, hay un problema.
@@ -37,3 +43,6 @@ Esto conecta directamente con el desafío de la [[Identidad celular]]: la jerarq
 ## Aparece en
 
 - [[Aproximaciones ómicas con resolución de célula única]]
+- [[Shafer 2019 - Cross-species analysis of scRNAseq data]] *(lectura)*
+- [[Slovin et al 2021 - scRNA-seq analysis a step-by-step overview]] *(lectura)*
+- [[Stuart and Satija 2019 - Integrative single-cell analysis]] *(lectura)*

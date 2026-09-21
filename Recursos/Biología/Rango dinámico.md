@@ -1,6 +1,6 @@
 ---
 tags: [concepto, biología, análisis]
-area: Biología molecular
+area: Biología
 ---
 
 # Rango dinámico

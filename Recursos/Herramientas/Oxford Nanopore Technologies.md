@@ -1,6 +1,6 @@
 ---
 tags: [herramienta, empresa, nanoporos]
-area: Plataformas
+area: Herramientas
 aliases: [ONT, Oxford Nanopore, Nanopore Tech]
 ---
 

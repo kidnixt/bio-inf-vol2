@@ -39,3 +39,4 @@ Integrar datos de mil laboratorios distintos es el problema de [[Batch effect]] 
 ## Aparece en
 
 - [[Aproximaciones ómicas con resolución de célula única]]
+- [[Stuart and Satija 2019 - Integrative single-cell analysis]] *(lectura)*

@@ -43,3 +43,4 @@ En el caso de estudio, el método **redescubrió** la lógica PGI/RPE de Papapet
 ## Aparece en
 
 - [[Intro teórica a modelos metabólicos y aplicaciones en ingeniería metabólica]]
+- [[Schneider et al 2022 - StrainDesign]] *(lectura)*

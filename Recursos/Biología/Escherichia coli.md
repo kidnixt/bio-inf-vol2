@@ -32,3 +32,4 @@ El primer esquema de la clase — glucosa → piruvato con las ramas a lactato, 
 ## Aparece en
 
 - [[Intro teórica a modelos metabólicos y aplicaciones en ingeniería metabólica]]
+- [[Maarleveld et al 2013 - Basic concepts of stoichiometric modeling of metabolic networks]] *(lectura)*
