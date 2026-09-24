@@ -199,6 +199,10 @@
   },
   "active": "e8221342a2ea8521",
   "lastOpenFiles": [
+    "Recursos/Lecturas/van Kempen et al 2024 - Foldseek.md",
+    "Recursos/Lecturas/Elnaggar et al 2023 - Ankh.md",
+    "Recursos/Lecturas/Lin et al 2023 - Evolutionary-scale prediction with a language model.md",
+    "Recursos/Lecturas/Rives et al 2021 - Biological structure and function emerge from scaling.md",
     "Recursos/Lecturas/Elnaggar et al 2021 - ProtTrans.md",
     "Recursos/Lecturas/Heinzinger et al 2019 - SeqVec.md",
     "Recursos/Lecturas/Asgari and Mofrad 2015 - Continuous distributed representation of biological sequences.md",
@@ -230,10 +234,6 @@
     "Recursos/Lecturas/Slovin et al 2021 - scRNA-seq analysis a step-by-step overview.md",
     "Recursos/Lecturas/Shafer 2019 - Cross-species analysis of scRNAseq data.md",
     "Recursos/Lecturas/Schneider et al 2022 - StrainDesign.md",
-    "Recursos/Lecturas/Maarleveld et al 2013 - Basic concepts of stoichiometric modeling of metabolic networks.md",
-    "Recursos/Lecturas/Longo et al 2021 - Integrating single-cell and spatial transcriptomics.md",
-    "Recursos/Lecturas/Li and Zhou 2026 - Imaging-based Spatial transcriptomics.md",
-    "Recursos/Herramientas/Xenium.md",
-    "Recursos/Herramientas/SpatialData.md"
+    "Recursos/Lecturas/Maarleveld et al 2013 - Basic concepts of stoichiometric modeling of metabolic networks.md"
   ]
 }
