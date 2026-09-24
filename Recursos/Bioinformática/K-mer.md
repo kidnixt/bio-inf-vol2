@@ -30,3 +30,4 @@ El mismo concepto sostiene el [[Pseudoalineamiento]], el ensamblaje por grafos d
 ## Aparece en
 
 - [[Aplicaciones de la secuenciación con nanoporos en (meta)genómica]]
+- [[Modelos de lenguaje de proteínas y embeddings proteicos]]

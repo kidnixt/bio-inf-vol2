@@ -55,3 +55,5 @@ Su contracara es que **la versión del basecaller y el modelo son parte del resu
 ## Aparece en
 
 - [[Aplicaciones de la secuenciación con nanoporos en (meta)genómica]]
+- [[Métodos para el diseño computacional de fármacos]]
+- [[Modelos de lenguaje de proteínas y embeddings proteicos]]

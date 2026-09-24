@@ -16,3 +16,4 @@ Junto con el [[IIBCE]], es una de las dos instituciones uruguayas de investigaci
 
 - [[Aproximaciones ómicas con resolución de célula única]]
 - [[Aplicaciones de la secuenciación con nanoporos en (meta)genómica]]
+- [[Métodos para el diseño computacional de fármacos]]

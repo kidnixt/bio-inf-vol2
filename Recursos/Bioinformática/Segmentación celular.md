@@ -42,3 +42,5 @@ Es un problema de visión por computadora, abordado con modelos de [[Deep Learni
 - [[Li and Zhou 2026 - Imaging-based Spatial transcriptomics]] *(lectura)*
 - [[Longo et al 2021 - Integrating single-cell and spatial transcriptomics]] *(lectura)*
 - [[Yue et al 2023 - A guidebook of spatial transcriptomics technologies]] *(lectura)*
+- [[Métodos para el diseño computacional de fármacos]]
+- [[Modelos de lenguaje de proteínas y embeddings proteicos]]

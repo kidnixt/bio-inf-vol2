@@ -25,3 +25,4 @@ Que el ciclo sea iterativo es importante para leer los resultados del caso de es
 ## Aparece en
 
 - [[Intro teórica a modelos metabólicos y aplicaciones en ingeniería metabólica]]
+- [[Métodos para el diseño computacional de fármacos]]
