@@ -199,6 +199,10 @@
   },
   "active": "e8221342a2ea8521",
   "lastOpenFiles": [
+    "Recursos/Lecturas/Elnaggar et al 2021 - ProtTrans.md",
+    "Recursos/Lecturas/Heinzinger et al 2019 - SeqVec.md",
+    "Recursos/Lecturas/Asgari and Mofrad 2015 - Continuous distributed representation of biological sequences.md",
+    "Recursos/Lecturas/Mikolov et al 2013 - Efficient estimation of word representations.md",
     "Módulo 3 - Inteligencia Artificial aplicada a Bioinformática/Clase 9 - Modelos de lenguaje de proteínas/Lecturas/Bouras et al 2026 - Phold.pdf",
     "Módulo 3 - Inteligencia Artificial aplicada a Bioinformática/Clase 9 - Modelos de lenguaje de proteínas/Lecturas/Hayes et al 2025 - Simulating 500 million years of evolution.pdf",
     "Módulo 3 - Inteligencia Artificial aplicada a Bioinformática/Clase 9 - Modelos de lenguaje de proteínas/Lecturas/Heinzinger et al 2024 - ProstT5.pdf",
@@ -209,7 +213,6 @@
     "Módulo 3 - Inteligencia Artificial aplicada a Bioinformática/Clase 9 - Modelos de lenguaje de proteínas/Lecturas/Elnaggar et al 2021 - ProtTrans.pdf",
     "Módulo 3 - Inteligencia Artificial aplicada a Bioinformática/Clase 9 - Modelos de lenguaje de proteínas/Lecturas/Heinzinger et al 2019 - SeqVec.pdf",
     "Módulo 3 - Inteligencia Artificial aplicada a Bioinformática/Clase 9 - Modelos de lenguaje de proteínas/Lecturas/Asgari and Mofrad 2015 - Continuous distributed representation of biological sequences.pdf",
-    "Módulo 3 - Inteligencia Artificial aplicada a Bioinformática/Clase 9 - Modelos de lenguaje de proteínas/Lecturas/Mikolov et al 2013 - Efficient estimation of word representations.pdf",
     "Recursos/Biología/Plásmido.md",
     "Recursos/Biología/Metilación del ADN.md",
     "Recursos/Células/Tipo celular.md",
@@ -231,9 +234,6 @@
     "Recursos/Lecturas/Longo et al 2021 - Integrating single-cell and spatial transcriptomics.md",
     "Recursos/Lecturas/Li and Zhou 2026 - Imaging-based Spatial transcriptomics.md",
     "Recursos/Herramientas/Xenium.md",
-    "Recursos/Herramientas/SpatialData.md",
-    "Recursos/Herramientas/Seurat y Scanpy.md",
-    "Recursos/Bioinformática/t-SNE.md",
-    "Recursos/Bioinformática/RNA velocity.md"
+    "Recursos/Herramientas/SpatialData.md"
   ]
 }
