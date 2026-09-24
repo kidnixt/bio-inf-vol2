@@ -197,8 +197,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "846c41f438a23cc6",
+  "active": "e8221342a2ea8521",
   "lastOpenFiles": [
+    "Módulo 3 - Inteligencia Artificial aplicada a Bioinformática/Clase 6 - Material complementario-20260924/s44386-026-00053-6.pdf",
+    "Módulo 3 - Inteligencia Artificial aplicada a Bioinformática/Clase 6 - Material complementario-20260924/d5dd00549c.pdf",
+    "Módulo 3 - Inteligencia Artificial aplicada a Bioinformática/Clase 6 - Material complementario-20260924/1-s2.0-S147692712500324X-main.pdf",
+    "Módulo 3 - Inteligencia Artificial aplicada a Bioinformática/Clase 6 - Material complementario-20260924/1-s2.0-S1359644624001107-main.pdf",
+    "Módulo 3 - Inteligencia Artificial aplicada a Bioinformática/Clase 6 - Material complementario-20260924",
+    "Módulo 3 - Inteligencia Artificial aplicada a Bioinformática/Clase 9 - Material complementario-20260924/word2vec.pdf",
+    "Módulo 3 - Inteligencia Artificial aplicada a Bioinformática/Clase 9 - Material complementario-20260924/seqvec.pdf",
+    "Módulo 3 - Inteligencia Artificial aplicada a Bioinformática/Clase 9 - Material complementario-20260924/protvec.pdf",
+    "Módulo 3 - Inteligencia Artificial aplicada a Bioinformática/Clase 9 - Material complementario-20260924/prottrans.pdf",
+    "Módulo 3 - Inteligencia Artificial aplicada a Bioinformática/Clase 9 - Material complementario-20260924/prostt5.pdf",
+    "Módulo 3 - Inteligencia Artificial aplicada a Bioinformática/Clase 9 - Material complementario-20260924/phold.pdf",
     "Recursos/Biología/Plásmido.md",
     "Recursos/Biología/Metilación del ADN.md",
     "Recursos/Células/Tipo celular.md",
@@ -207,16 +218,6 @@
     "Recursos/Técnicas/scRNA-seq.md",
     "Clases/Módulo 2 - Estado del arte en Biología de Sistemas/Intro teórica a modelos metabólicos y aplicaciones en ingeniería metabólica.md",
     "Recursos/Personas/David Deamer.md",
-    "Módulo 2 - Estado del arte en Biología de Sistemas/Clase 5 - Modelos metabólicos/Resumen - Modelos metabólicos.pdf",
-    "Módulo 2 - Estado del arte en Biología de Sistemas/Clase 5 - Modelos metabólicos/Lecturas/Schneider et al 2022 - StrainDesign.pdf",
-    "Módulo 2 - Estado del arte en Biología de Sistemas/Clase 5 - Modelos metabólicos/Lecturas/Maarleveld et al 2013 - Basic concepts of stoichiometric modeling of metabolic networks.pdf",
-    "Módulo 2 - Estado del arte en Biología de Sistemas/Clase 5 - Modelos metabólicos/Lecturas",
-    "Módulo 2 - Estado del arte en Biología de Sistemas/Clase 5 - Modelos metabólicos/Diapositivas - Intro teórica a modelos metabólicos y aplicaciones en ingeniería metabólica.pdf",
-    "Módulo 2 - Estado del arte en Biología de Sistemas/Clase 5 - Modelos metabólicos",
-    "Módulo 1 - Avances en las ciencias ómicas/Clase 3 - Nanoporos/Resumen - Secuenciación Nanopore y aplicaciones microbiológicas.pdf",
-    "Módulo 1 - Avances en las ciencias ómicas/Clase 3 - Nanoporos/Diapositivas - Aplicaciones de la secuenciación con nanoporos en (meta)genómica.pdf",
-    "Módulo 1 - Avances en las ciencias ómicas/Clase 3 - Nanoporos",
-    "Módulo 1 - Avances en las ciencias ómicas/Clase 2 - Biología espacial/Lecturas/Yue et al 2023 - A guidebook of spatial transcriptomics technologies.pdf",
     "Recursos/Técnicas/Stereo-seq.md",
     "Recursos/Técnicas/Smart-seq.md",
     "Recursos/Técnicas/MERFISH.md",
@@ -233,7 +234,6 @@
     "Recursos/Herramientas/SpatialData.md",
     "Recursos/Herramientas/Seurat y Scanpy.md",
     "Recursos/Bioinformática/t-SNE.md",
-    "Recursos/Bioinformática/RNA velocity.md",
-    "Recursos/Bioinformática/Genes espacialmente variables.md"
+    "Recursos/Bioinformática/RNA velocity.md"
   ]
 }
