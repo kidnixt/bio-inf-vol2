@@ -5,58 +5,8 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "tag:#concepto",
-      "color": {
-        "a": 1,
-        "rgb": 16741432
-      }
-    },
-    {
-      "query": "tag:#bioinformática",
-      "color": {
-        "a": 1,
-        "rgb": 5086688
-      }
-    },
-    {
-      "query": "tag:#herramienta",
-      "color": {
-        "a": 1,
-        "rgb": 10513621
-      }
-    },
-    {
-      "query": "tag:#técnica",
-      "color": {
-        "a": 1,
-        "rgb": 15254855
-      }
-    },
-    {
-      "query": "tag:#espacial",
-      "color": {
-        "a": 1,
-        "rgb": 15232936
-      }
-    },
-    {
-      "query": "tag:#single-cell",
-      "color": {
-        "a": 1,
-        "rgb": 8112464
-      }
-    },
-    {
-      "query": "tag:#lectura",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
-      }
-    }
-  ],
+  "collapse-color-groups": true,
+  "colorGroups": [],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -67,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.32934439291940726,
+  "scale": 0.2885641769309201,
   "close": false
 }
