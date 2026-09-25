@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "81ba72269afaac44",
+        "id": "bbeadefb9ce01307",
         "type": "tabs",
         "children": [
           {
-            "id": "d0aa542d500e9169",
+            "id": "1e39f63ba5edee54",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Módulo 3 - Inteligencia Artificial aplicada a Bioinformática/Clase 6 - Diseño computacional de fármacos/Diapositivas - Métodos para el diseño computacional de fármacos.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Diapositivas - Métodos para el diseño computacional de fármacos"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -195,8 +193,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "d0aa542d500e9169",
+  "active": "1e39f63ba5edee54",
   "lastOpenFiles": [
+    "Módulo 3 - Inteligencia Artificial aplicada a Bioinformática/Clase 6 - Diseño computacional de fármacos/Diapositivas - Métodos para el diseño computacional de fármacos.pdf",
     "Clases/Módulo 3 - Inteligencia Artificial aplicada a Bioinformática/Modelos de lenguaje de proteínas y embeddings proteicos.md",
     "Fronteras y Perspectivas en Bioinformática - MOC.md",
     "Recursos/Lecturas/Hayes et al 2025 - Simulating 500 million years of evolution.md",
@@ -231,7 +230,6 @@
     "Recursos/Técnicas/Smart-seq.md",
     "Recursos/Técnicas/MERFISH.md",
     "Recursos/Técnicas/FISH y smFISH.md",
-    "Recursos/Técnicas/CITE-seq.md",
-    "Recursos/Lecturas/Yue et al 2023 - A guidebook of spatial transcriptomics technologies.md"
+    "Recursos/Técnicas/CITE-seq.md"
   ]
 }
