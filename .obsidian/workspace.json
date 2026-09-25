@@ -11,10 +11,12 @@
             "id": "d0aa542d500e9169",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "pdf",
+              "state": {
+                "file": "Módulo 3 - Inteligencia Artificial aplicada a Bioinformática/Clase 6 - Diseño computacional de fármacos/Diapositivas - Métodos para el diseño computacional de fármacos.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Diapositivas - Métodos para el diseño computacional de fármacos"
             }
           }
         ]
