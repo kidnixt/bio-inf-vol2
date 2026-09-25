@@ -48,3 +48,8 @@ Ver [[Masked language modeling]] para las tres formas de leer una secuencia con 
 ## Aparece en
 
 - [[Modelos de lenguaje de proteínas y embeddings proteicos]]
+- [[Elnaggar et al 2021 - ProtTrans]] *(lectura)*
+- [[Hayes et al 2025 - Simulating 500 million years of evolution]] *(lectura)*
+- [[Lin et al 2023 - Evolutionary-scale prediction with a language model]] *(lectura)*
+- [[Mikolov et al 2013 - Efficient estimation of word representations]] *(lectura)*
+- [[Rives et al 2021 - Biological structure and function emerge from scaling]] *(lectura)*

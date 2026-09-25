@@ -37,3 +37,4 @@ Porque habilita la escala: sin el costo de construir un MSA por secuencia, se pu
 ## Aparece en
 
 - [[Modelos de lenguaje de proteínas y embeddings proteicos]]
+- [[Lin et al 2023 - Evolutionary-scale prediction with a language model]] *(lectura)*

@@ -29,3 +29,6 @@ En los benchmarks sirve como **línea de base**: en predicción de membrana, Pro
 ## Aparece en
 
 - [[Modelos de lenguaje de proteínas y embeddings proteicos]]
+- [[Asgari and Mofrad 2015 - Continuous distributed representation of biological sequences]] *(lectura)*
+- [[Heinzinger et al 2019 - SeqVec]] *(lectura)*
+- [[Mikolov et al 2013 - Efficient estimation of word representations]] *(lectura)*

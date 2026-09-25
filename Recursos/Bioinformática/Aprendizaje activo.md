@@ -46,3 +46,5 @@ Es la etapa "selección experimental" de la tabla de [[Inteligencia Artificial|d
 ## Aparece en
 
 - [[Métodos para el diseño computacional de fármacos]]
+- [[Nazarova et al 2026 - V-SYNTHES2]] *(lectura)*
+- [[Wang et al 2024 - Active learning in drug discovery]] *(lectura)*

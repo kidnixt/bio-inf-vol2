@@ -37,3 +37,9 @@ La generación siguiente de encoders (EvolutionaryScale, `huggingface.co/Evoluti
 ## Aparece en
 
 - [[Modelos de lenguaje de proteínas y embeddings proteicos]]
+- [[Asgari and Mofrad 2015 - Continuous distributed representation of biological sequences]] *(lectura)*
+- [[Elnaggar et al 2023 - Ankh]] *(lectura)*
+- [[Hayes et al 2025 - Simulating 500 million years of evolution]] *(lectura)*
+- [[Lin et al 2023 - Evolutionary-scale prediction with a language model]] *(lectura)*
+- [[Mikolov et al 2013 - Efficient estimation of word representations]] *(lectura)*
+- [[Rives et al 2021 - Biological structure and function emerge from scaling]] *(lectura)*

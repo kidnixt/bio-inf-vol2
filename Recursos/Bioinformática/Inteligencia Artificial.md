@@ -41,3 +41,5 @@ Es el objeto del [[Módulo 3 - MOC|Módulo 3: Inteligencia Artificial aplicada a
 - [[Biología espacial - mapeando la expresión génica a su entorno]]
 - [[Intro teórica a modelos metabólicos y aplicaciones en ingeniería metabólica]]
 - [[Métodos para el diseño computacional de fármacos]]
+- [[Fang et al 2026 - A comprehensive review of AI in drug design]] *(lectura)*
+- [[Wang et al 2024 - Active learning in drug discovery]] *(lectura)*

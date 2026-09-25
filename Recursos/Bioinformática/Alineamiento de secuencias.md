@@ -32,3 +32,4 @@ Cuando el análisis necesita posición: detección de variantes, análisis de is
 
 - [[Aproximaciones ómicas con resolución de célula única]]
 - [[Slovin et al 2021 - scRNA-seq analysis a step-by-step overview]] *(lectura)*
+- [[van Kempen et al 2024 - Foldseek]] *(lectura)*

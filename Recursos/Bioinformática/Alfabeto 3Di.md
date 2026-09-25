@@ -31,3 +31,6 @@ Los casos que se construyen sobre esta idea: [[ProstT5]] (predecir el 3Di sin ca
 ## Aparece en
 
 - [[Modelos de lenguaje de proteínas y embeddings proteicos]]
+- [[Bouras et al 2026 - Phold]] *(lectura)*
+- [[Heinzinger et al 2024 - ProstT5]] *(lectura)*
+- [[van Kempen et al 2024 - Foldseek]] *(lectura)*

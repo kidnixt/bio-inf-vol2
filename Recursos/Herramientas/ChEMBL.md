@@ -27,3 +27,5 @@ Comparte datos con [[BindingDB]]. Frente a [[ZINC]] (≈5·10¹⁰ moléculas en
 ## Aparece en
 
 - [[Métodos para el diseño computacional de fármacos]]
+- [[Fang et al 2026 - A comprehensive review of AI in drug design]] *(lectura)*
+- [[Wang et al 2024 - Active learning in drug discovery]] *(lectura)*

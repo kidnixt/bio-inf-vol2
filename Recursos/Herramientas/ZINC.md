@@ -31,3 +31,5 @@ Ver también [[PubChem]] (la otra gran biblioteca química, orientada a identida
 ## Aparece en
 
 - [[Métodos para el diseño computacional de fármacos]]
+- [[Fang et al 2026 - A comprehensive review of AI in drug design]] *(lectura)*
+- [[Nazarova et al 2026 - V-SYNTHES2]] *(lectura)*

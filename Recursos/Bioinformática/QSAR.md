@@ -36,3 +36,5 @@ Su límite compartido con todo el [[Diseño basado en ligandos|LBDD]]: los [[Act
 ## Aparece en
 
 - [[Métodos para el diseño computacional de fármacos]]
+- [[Fahim 2026 - Structure-based design of antiviral and antihypertensive drugs]] *(lectura)*
+- [[Wang et al 2024 - Active learning in drug discovery]] *(lectura)*

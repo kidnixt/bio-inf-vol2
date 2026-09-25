@@ -44,3 +44,6 @@ El paso 2 no es trámite: qué residuos están protonados y qué aguas se conser
 ## Aparece en
 
 - [[Métodos para el diseño computacional de fármacos]]
+- [[Fahim 2026 - Structure-based design of antiviral and antihypertensive drugs]] *(lectura)*
+- [[Nazarova et al 2026 - V-SYNTHES2]] *(lectura)*
+- [[Wang et al 2024 - Active learning in drug discovery]] *(lectura)*

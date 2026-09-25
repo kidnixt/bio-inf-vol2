@@ -41,3 +41,4 @@ De la fidelidad al *prompt* sale un matiz práctico: **promptear por estructura 
 ## Aparece en
 
 - [[Modelos de lenguaje de proteínas y embeddings proteicos]]
+- [[Hayes et al 2025 - Simulating 500 million years of evolution]] *(lectura)*

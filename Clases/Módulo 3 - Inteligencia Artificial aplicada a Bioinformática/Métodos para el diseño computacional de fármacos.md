@@ -25,7 +25,7 @@ tags:
 > **Fecha:** setiembre de 2026 (las bases de datos de la clase se consultaron el 09/09/2026)
 > **Diapositivas:** [[Diapositivas - Métodos para el diseño computacional de fármacos.pdf]]
 > **Resumen de la clase (material del curso):** — no hay
-> **Lecturas:** — no hay
+> **Lecturas:** [[Wang et al 2024 - Active learning in drug discovery|Wang et al. 2024]] · [[Fang et al 2026 - A comprehensive review of AI in drug design|Fang et al. 2026]] · [[Nazarova et al 2026 - V-SYNTHES2|Nazarova et al. 2026]] · [[Fahim 2026 - Structure-based design of antiviral and antihypertensive drugs|Fahim 2026]]
 > **Clase previa (en el vault):** [[Intro teórica a modelos metabólicos y aplicaciones en ingeniería metabólica]] — es la primera clase del [[Módulo 3 - MOC|Módulo 3]].
 
 ## De qué va la clase
@@ -586,6 +586,15 @@ La clase cierra con las reglas que ordenan todo lo anterior:
 - Un **score de docking no es una ΔG experimental**. Ordena dentro de un protocolo.
 - **[[AlphaFold]] cambió la disponibilidad estructural** (más modelos predichos que secuencias en UniProtKB), pero **la afinidad sigue siendo difícil**.
 - **IA-driven no es IA sola**: es un ciclo de decisión guiado por aprendizaje, donde la medición actualiza el modelo. El [[Aprendizaje activo]] es la forma explícita de ese ciclo.
+
+## Lecturas de la clase
+
+| Lectura | Qué aporta |
+|---|---|
+| [[Wang et al 2024 - Active learning in drug discovery]] | La revisión detrás de la diapositiva de [[Aprendizaje activo]]: los cuatro componentes de un ciclo y la distinción explorar/explotar |
+| [[Fang et al 2026 - A comprehensive review of AI in drug design]] | El mapa completo del AIDD (es el DOI que aparece en la diapositiva "Mapa de la IA en descubrimiento"), con una sección sistemática sobre **métricas de evaluación** |
+| [[Nazarova et al 2026 - V-SYNTHES2]] | El paper de V-SYNTHES2, con la crítica a los modelos sustitutos: si cambiás de score a mitad del embudo, cambiaste de protocolo |
+| [[Fahim 2026 - Structure-based design of antiviral and antihypertensive drugs]] | La versión larga de la diapositiva de casos de éxito: captopril, aliskiren, los inhibidores de proteasa del VIH, oseltamivir y Paxlovid, caso por caso |
 
 ## Conexiones
 

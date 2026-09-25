@@ -30,3 +30,6 @@ Con [[AlphaFold DB]] (214 M de modelos) y el ESM Atlas (617 M) juntos, el proble
 ## Aparece en
 
 - [[Modelos de lenguaje de proteínas y embeddings proteicos]]
+- [[Heinzinger et al 2019 - SeqVec]] *(lectura)*
+- [[Lin et al 2023 - Evolutionary-scale prediction with a language model]] *(lectura)*
+- [[van Kempen et al 2024 - Foldseek]] *(lectura)*

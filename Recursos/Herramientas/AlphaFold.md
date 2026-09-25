@@ -36,3 +36,5 @@ Sus predicciones masivas viven en [[AlphaFold DB]].
 
 - [[Métodos para el diseño computacional de fármacos]]
 - [[Modelos de lenguaje de proteínas y embeddings proteicos]]
+- [[Heinzinger et al 2024 - ProstT5]] *(lectura)*
+- [[Lin et al 2023 - Evolutionary-scale prediction with a language model]] *(lectura)*

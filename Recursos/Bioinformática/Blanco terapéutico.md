@@ -32,3 +32,4 @@ Ese último punto —selectividad— es lo que conecta con [[Cribado virtual inv
 ## Aparece en
 
 - [[Métodos para el diseño computacional de fármacos]]
+- [[Fahim 2026 - Structure-based design of antiviral and antihypertensive drugs]] *(lectura)*

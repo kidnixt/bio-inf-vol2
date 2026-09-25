@@ -33,3 +33,4 @@ Conecta además con el [[Módulo 1 - MOC|Módulo 1]]: los fagos son parte del un
 ## Aparece en
 
 - [[Modelos de lenguaje de proteínas y embeddings proteicos]]
+- [[Bouras et al 2026 - Phold]] *(lectura)*

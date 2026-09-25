@@ -34,3 +34,4 @@ Ver también [[Reglas de drug-likeness]] (el uso de propiedades fisicoquímicas 
 ## Aparece en
 
 - [[Métodos para el diseño computacional de fármacos]]
+- [[Fang et al 2026 - A comprehensive review of AI in drug design]] *(lectura)*

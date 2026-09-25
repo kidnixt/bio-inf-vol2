@@ -10,14 +10,43 @@ tags: [MOC, modulo-3]
 
 | # | Clase | Docente | Material del curso |
 |---|---|---|---|
-| 6 | [[Métodos para el diseño computacional de fármacos]] | [[Andrés Ballesteros]] | [[Diapositivas - Métodos para el diseño computacional de fármacos.pdf\|diapositivas]] |
+| 6 | [[Métodos para el diseño computacional de fármacos]] | [[Andrés Ballesteros]] | [[Diapositivas - Métodos para el diseño computacional de fármacos.pdf\|diapositivas]] · 4 lecturas |
 | 7 | *(sin material todavía)* | — | — |
 | 8 | *(sin material todavía)* | — | — |
-| 9 | [[Modelos de lenguaje de proteínas y embeddings proteicos]] | [[Ignacio Ferrés]] | [[Diapositivas - Modelos de lenguaje de proteínas y embeddings proteicos.pdf\|diapositivas]] |
+| 9 | [[Modelos de lenguaje de proteínas y embeddings proteicos]] | [[Ignacio Ferrés]] | [[Diapositivas - Modelos de lenguaje de proteínas y embeddings proteicos.pdf\|diapositivas]] · 11 lecturas |
 | 10 | *(sin material todavía)* | — | — |
 
 > [!note] Pendiente
-> Ninguna de las dos clases cargadas tiene PDF de resumen del curso ni lecturas asignadas. De las clases 7, 8 y 10 no hay material. Cuando llegue, va en `Módulo 3 - Inteligencia Artificial aplicada a Bioinformática/Clase N - <tema>/` y el resumen en esta carpeta.
+> Ninguna de las dos clases cargadas tiene PDF de resumen del curso. De las clases 7, 8 y 10 no hay material. Cuando llegue, va en `Módulo 3 - Inteligencia Artificial aplicada a Bioinformática/Clase N - <tema>/` y el resumen en esta carpeta.
+
+## Lecturas
+
+Quince papers de material complementario, en `Clase N - .../Lecturas/`.
+
+### Clase 6 — diseño computacional de fármacos
+
+| Lectura | En una línea |
+|---|---|
+| [[Wang et al 2024 - Active learning in drug discovery]] | Los cuatro componentes de un ciclo de [[Aprendizaje activo\|aprendizaje activo]], y explorar contra explotar |
+| [[Fang et al 2026 - A comprehensive review of AI in drug design]] | El mapa del AIDD, con una sección sistemática de **métricas de evaluación** |
+| [[Nazarova et al 2026 - V-SYNTHES2]] | 36 mil millones de compuestos cribados dockeando 3,8 millones, sin modelos sustitutos |
+| [[Fahim 2026 - Structure-based design of antiviral and antihypertensive drugs]] | Los casos de éxito del [[Diseño basado en estructura\|SBDD]], fármaco por fármaco |
+
+### Clase 9 — modelos de lenguaje de proteínas
+
+| Año | Lectura | En una línea |
+|---|---|---|
+| 2013 | [[Mikolov et al 2013 - Efficient estimation of word representations]] | El paper de [[Word2vec]] |
+| 2015 | [[Asgari and Mofrad 2015 - Continuous distributed representation of biological sequences]] | [[ProtVec]]: word2vec sobre 3-meros |
+| 2019 | [[Heinzinger et al 2019 - SeqVec]] | Entra el contexto; y por qué querríamos prescindir del MSA |
+| 2021 | [[Elnaggar et al 2021 - ProtTrans]] | Transformers a escala de supercómputo |
+| 2021 | [[Rives et al 2021 - Biological structure and function emerge from scaling]] | La estructura emerge del entrenamiento |
+| 2023 | [[Lin et al 2023 - Evolutionary-scale prediction with a language model]] | [[ESMFold]] y el [[ESM Atlas]] |
+| 2023 | [[Elnaggar et al 2023 - Ankh]] | El contrapunto al *scaling* |
+| 2024 | [[van Kempen et al 2024 - Foldseek]] | El [[Alfabeto 3Di\|3Di]]: comparar forma como si fuera texto |
+| 2024 | [[Heinzinger et al 2024 - ProstT5]] | El modelo bilingüe secuencia ↔ estructura |
+| 2025 | [[Hayes et al 2025 - Simulating 500 million years of evolution]] | [[ESM3]] y esmGFP |
+| 2026 | [[Bouras et al 2026 - Phold]] | Anotar fagos por forma |
 
 ## El hilo conductor del módulo
 
@@ -71,6 +100,10 @@ El puente concreto entre ambas es [[AlphaFold]]: en la clase 6 resuelve *"¿y si
 ### Biología
 
 [[Homología]] · [[Permutación circular]] · [[Bacteriófago]]
+
+### Lecturas
+
+Ver la tabla de arriba: 4 de la clase 6 y 11 de la clase 9, todas con nota en `Recursos/Lecturas/`.
 
 ### Personas e instituciones
 

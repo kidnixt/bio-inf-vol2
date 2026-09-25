@@ -28,3 +28,9 @@ En el benchmark de localización subcelular, ProtT5 y ProtBERT compiten de igual
 ## Aparece en
 
 - [[Modelos de lenguaje de proteínas y embeddings proteicos]]
+- [[Asgari and Mofrad 2015 - Continuous distributed representation of biological sequences]] *(lectura)*
+- [[Elnaggar et al 2021 - ProtTrans]] *(lectura)*
+- [[Elnaggar et al 2023 - Ankh]] *(lectura)*
+- [[Heinzinger et al 2019 - SeqVec]] *(lectura)*
+- [[Heinzinger et al 2024 - ProstT5]] *(lectura)*
+- [[Rives et al 2021 - Biological structure and function emerge from scaling]] *(lectura)*

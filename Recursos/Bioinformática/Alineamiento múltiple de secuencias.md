@@ -35,3 +35,9 @@ Porque el MSA es **lo que los PLMs vinieron a reemplazar**. Es la afirmación ce
 
 - [[Modelos de lenguaje de proteínas y embeddings proteicos]]
 - [[Métodos para el diseño computacional de fármacos]]
+- [[Bouras et al 2026 - Phold]] *(lectura)*
+- [[Elnaggar et al 2021 - ProtTrans]] *(lectura)*
+- [[Elnaggar et al 2023 - Ankh]] *(lectura)*
+- [[Heinzinger et al 2019 - SeqVec]] *(lectura)*
+- [[Lin et al 2023 - Evolutionary-scale prediction with a language model]] *(lectura)*
+- [[Rives et al 2021 - Biological structure and function emerge from scaling]] *(lectura)*

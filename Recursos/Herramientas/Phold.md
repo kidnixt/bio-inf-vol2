@@ -39,3 +39,7 @@ Es el hallazgo de [[ESM-1b y ESM-2|ESM-1b]] —*la estructura está adentro de l
 ## Aparece en
 
 - [[Modelos de lenguaje de proteínas y embeddings proteicos]]
+- [[Bouras et al 2026 - Phold]] *(lectura)*
+- [[Heinzinger et al 2019 - SeqVec]] *(lectura)*
+- [[Rives et al 2021 - Biological structure and function emerge from scaling]] *(lectura)*
+- [[van Kempen et al 2024 - Foldseek]] *(lectura)*

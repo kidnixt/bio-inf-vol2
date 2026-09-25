@@ -43,3 +43,6 @@ La clase lista la familia de modelos que aprendieron a predecir o generar poses:
 ## Aparece en
 
 - [[Métodos para el diseño computacional de fármacos]]
+- [[Fahim 2026 - Structure-based design of antiviral and antihypertensive drugs]] *(lectura)*
+- [[Fang et al 2026 - A comprehensive review of AI in drug design]] *(lectura)*
+- [[Nazarova et al 2026 - V-SYNTHES2]] *(lectura)*

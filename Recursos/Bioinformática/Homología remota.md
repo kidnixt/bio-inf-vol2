@@ -32,3 +32,9 @@ En organismos de evolución rápida, donde es la norma y no la excepción. El ca
 ## Aparece en
 
 - [[Modelos de lenguaje de proteínas y embeddings proteicos]]
+- [[Bouras et al 2026 - Phold]] *(lectura)*
+- [[Heinzinger et al 2019 - SeqVec]] *(lectura)*
+- [[Heinzinger et al 2024 - ProstT5]] *(lectura)*
+- [[Lin et al 2023 - Evolutionary-scale prediction with a language model]] *(lectura)*
+- [[Rives et al 2021 - Biological structure and function emerge from scaling]] *(lectura)*
+- [[van Kempen et al 2024 - Foldseek]] *(lectura)*

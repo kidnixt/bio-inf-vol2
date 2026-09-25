@@ -29,3 +29,4 @@ La base de referencia es [[DrugBank]] (fármacos, blancos, mecanismos, indicacio
 ## Aparece en
 
 - [[Métodos para el diseño computacional de fármacos]]
+- [[Fahim 2026 - Structure-based design of antiviral and antihypertensive drugs]] *(lectura)*

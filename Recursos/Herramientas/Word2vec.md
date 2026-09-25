@@ -41,3 +41,6 @@ Y la compresión: de **50.000** posiciones casi todas en cero a **100–300** n�
 ## Aparece en
 
 - [[Modelos de lenguaje de proteínas y embeddings proteicos]]
+- [[Asgari and Mofrad 2015 - Continuous distributed representation of biological sequences]] *(lectura)*
+- [[Heinzinger et al 2019 - SeqVec]] *(lectura)*
+- [[Mikolov et al 2013 - Efficient estimation of word representations]] *(lectura)*

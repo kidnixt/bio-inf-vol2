@@ -40,3 +40,6 @@ Su versión con [[Inteligencia Artificial|IA]] no reemplaza nada de esto: **IA-d
 ## Aparece en
 
 - [[Métodos para el diseño computacional de fármacos]]
+- [[Fang et al 2026 - A comprehensive review of AI in drug design]] *(lectura)*
+- [[Nazarova et al 2026 - V-SYNTHES2]] *(lectura)*
+- [[Wang et al 2024 - Active learning in drug discovery]] *(lectura)*

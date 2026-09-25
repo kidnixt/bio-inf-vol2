@@ -28,3 +28,5 @@ La figura de la clase lo deja claro: el [[Clustering]] se hace en el espacio de 
 - [[Aproximaciones ómicas con resolución de célula única]]
 - [[Slovin et al 2021 - scRNA-seq analysis a step-by-step overview]] *(lectura)*
 - [[Modelos de lenguaje de proteínas y embeddings proteicos]]
+- [[Asgari and Mofrad 2015 - Continuous distributed representation of biological sequences]] *(lectura)*
+- [[Heinzinger et al 2019 - SeqVec]] *(lectura)*

@@ -38,3 +38,9 @@ El 3Di **predicho** es tan bueno que, pasado a Foldseek, detecta **[[Homología 
 ## Aparece en
 
 - [[Modelos de lenguaje de proteínas y embeddings proteicos]]
+- [[Bouras et al 2026 - Phold]] *(lectura)*
+- [[Elnaggar et al 2021 - ProtTrans]] *(lectura)*
+- [[Heinzinger et al 2019 - SeqVec]] *(lectura)*
+- [[Heinzinger et al 2024 - ProstT5]] *(lectura)*
+- [[Rives et al 2021 - Biological structure and function emerge from scaling]] *(lectura)*
+- [[van Kempen et al 2024 - Foldseek]] *(lectura)*

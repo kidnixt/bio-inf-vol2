@@ -25,7 +25,7 @@ tags:
 > **Fecha:** setiembre de 2026
 > **Diapositivas:** [[Diapositivas - Modelos de lenguaje de proteínas y embeddings proteicos.pdf]]
 > **Resumen de la clase (material del curso):** — no hay
-> **Lecturas:** — no hay lecturas asignadas; la clase cierra con una lista *"Para seguir explorando"* (ver al final)
+> **Lecturas:** los 11 papers de la genealogía, en `Lecturas/` — de [[Mikolov et al 2013 - Efficient estimation of word representations|Mikolov 2013]] a [[Bouras et al 2026 - Phold|Bouras 2026]]. Tabla completa al final.
 > **Clase previa (en el vault):** [[Métodos para el diseño computacional de fármacos]] (clase 6, mismo módulo)
 
 ## De qué va la clase
@@ -576,6 +576,24 @@ Es exactamente la misma conclusión de la clase 6 sobre los scores de docking.
 | ProtGPT2 · ZymCTRL | `huggingface.co/nferruz` · `huggingface.co/AI4PD` |
 | Foldseek (alfabeto 3Di) | `search.foldseek.com` |
 | AggrescanAI (caso aplicado) | `gitlab.com/bioinformatics-fil/aggrescanai` |
+
+## Lecturas de la clase
+
+Las once lecturas **son** la línea de tiempo de la clase: cada una es la fuente primaria de un salto.
+
+| Año | Lectura | El salto |
+|---|---|---|
+| 2013 | [[Mikolov et al 2013 - Efficient estimation of word representations]] | [[Word2vec]]: una palabra, un vector; las relaciones son direcciones |
+| 2015 | [[Asgari and Mofrad 2015 - Continuous distributed representation of biological sequences]] | [[ProtVec]]: la idea aplicada a [[K-mer\|3-meros]] de proteínas |
+| 2019 | [[Heinzinger et al 2019 - SeqVec]] | [[ELMo y SeqVec\|SeqVec]]: el vector depende del entorno |
+| 2021 | [[Elnaggar et al 2021 - ProtTrans]] | [[ProtT5 y ProtBERT]]: transformers a escala, sin [[Alineamiento múltiple de secuencias\|MSA]] |
+| 2021 | [[Rives et al 2021 - Biological structure and function emerge from scaling]] | [[ESM-1b y ESM-2\|ESM-1b]]: la estructura está adentro de las representaciones |
+| 2023 | [[Lin et al 2023 - Evolutionary-scale prediction with a language model]] | [[ESM-1b y ESM-2\|ESM-2]] y [[ESMFold]]: más escala, y estructura sin alineamientos |
+| 2023 | [[Elnaggar et al 2023 - Ankh]] | El contrapunto: optimizar para proteínas en vez de escalar |
+| 2024 | [[van Kempen et al 2024 - Foldseek]] | [[Foldseek]] y el [[Alfabeto 3Di\|3Di]]: escribir la forma con letras |
+| 2024 | [[Heinzinger et al 2024 - ProstT5]] | [[ProstT5]]: un modelo bilingüe secuencia ↔ estructura |
+| 2025 | [[Hayes et al 2025 - Simulating 500 million years of evolution]] | [[ESM3]]: tres modalidades, y esmGFP |
+| 2026 | [[Bouras et al 2026 - Phold]] | [[Phold]]: el arco entero puesto a anotar genomas de fagos |
 
 ## Conexiones
 

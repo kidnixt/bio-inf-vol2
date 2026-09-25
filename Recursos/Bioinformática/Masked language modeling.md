@@ -33,3 +33,8 @@ Por eso el entrenamiento tapa **un sector distinto en cada paso**: así el model
 ## Aparece en
 
 - [[Modelos de lenguaje de proteínas y embeddings proteicos]]
+- [[Elnaggar et al 2021 - ProtTrans]] *(lectura)*
+- [[Elnaggar et al 2023 - Ankh]] *(lectura)*
+- [[Hayes et al 2025 - Simulating 500 million years of evolution]] *(lectura)*
+- [[Mikolov et al 2013 - Efficient estimation of word representations]] *(lectura)*
+- [[Rives et al 2021 - Biological structure and function emerge from scaling]] *(lectura)*

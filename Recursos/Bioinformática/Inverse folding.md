@@ -28,3 +28,5 @@ Y un matiz de la figura de fidelidad al prompt: **promptear por estructura funci
 ## Aparece en
 
 - [[Modelos de lenguaje de proteínas y embeddings proteicos]]
+- [[Hayes et al 2025 - Simulating 500 million years of evolution]] *(lectura)*
+- [[Heinzinger et al 2024 - ProstT5]] *(lectura)*

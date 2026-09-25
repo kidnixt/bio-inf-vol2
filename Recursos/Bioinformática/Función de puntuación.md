@@ -36,3 +36,5 @@ Las funciones aprendidas con [[Machine Learning|ML]] sobre [[PDBbind]] son hoy u
 ## Aparece en
 
 - [[Métodos para el diseño computacional de fármacos]]
+- [[Fang et al 2026 - A comprehensive review of AI in drug design]] *(lectura)*
+- [[Nazarova et al 2026 - V-SYNTHES2]] *(lectura)*

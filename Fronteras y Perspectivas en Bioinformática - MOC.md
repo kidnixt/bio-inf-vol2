@@ -12,7 +12,7 @@ Curso de la **Universidad ORT** (2026). Índice general del vault.
 |---|---|---|
 | [[Módulo 1 - MOC\|Módulo 1 — Avances en las ciencias ómicas]] | 1–3 | 3 clases resumidas · 6 lecturas |
 | [[Módulo 2 - MOC\|Módulo 2 — Estado del arte en Biología de Sistemas]] | 4–5 | 1 clase resumida (clase 5) · 2 lecturas · clase 4 sin material |
-| [[Módulo 3 - MOC\|Módulo 3 — Inteligencia Artificial aplicada a Bioinformática]] | 6–10 | 2 clases resumidas (6 y 9) · sin lecturas · clases 7, 8 y 10 sin material |
+| [[Módulo 3 - MOC\|Módulo 3 — Inteligencia Artificial aplicada a Bioinformática]] | 6–10 | 2 clases resumidas (6 y 9) · 15 lecturas · clases 7, 8 y 10 sin material |
 | [[Módulo 4 - MOC\|Módulo 4 — Desarrollo y despliegue]] | — | Sin material aún |
 
 ## Todas las clases
@@ -24,10 +24,10 @@ Curso de la **Universidad ORT** (2026). Índice general del vault.
 | 3 | [[Aplicaciones de la secuenciación con nanoporos en (meta)genómica]] | [[Cecilia Salazar]] | — |
 | 4 | *(sin material)* | — | — |
 | 5 | [[Intro teórica a modelos metabólicos y aplicaciones en ingeniería metabólica]] | [[Ingrid Persitz]] | [[Maarleveld et al 2013 - Basic concepts of stoichiometric modeling of metabolic networks\|Maarleveld 2013]] · [[Schneider et al 2022 - StrainDesign\|Schneider 2022]] |
-| 6 | [[Métodos para el diseño computacional de fármacos]] | [[Andrés Ballesteros]] | — |
+| 6 | [[Métodos para el diseño computacional de fármacos]] | [[Andrés Ballesteros]] | [[Wang et al 2024 - Active learning in drug discovery\|Wang 2024]] · [[Fang et al 2026 - A comprehensive review of AI in drug design\|Fang 2026]] · [[Nazarova et al 2026 - V-SYNTHES2\|Nazarova 2026]] · [[Fahim 2026 - Structure-based design of antiviral and antihypertensive drugs\|Fahim 2026]] |
 | 7 | *(sin material)* | — | — |
 | 8 | *(sin material)* | — | — |
-| 9 | [[Modelos de lenguaje de proteínas y embeddings proteicos]] | [[Ignacio Ferrés]] | — |
+| 9 | [[Modelos de lenguaje de proteínas y embeddings proteicos]] | [[Ignacio Ferrés]] | 11 lecturas, de [[Mikolov et al 2013 - Efficient estimation of word representations\|Mikolov 2013]] a [[Bouras et al 2026 - Phold\|Bouras 2026]] → [[Módulo 3 - MOC]] |
 | 10 | *(sin material)* | — | — |
 
 ## Cómo está organizado el vault

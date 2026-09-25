@@ -33,3 +33,5 @@ Estos modelos **siempre devuelven un resultado suave y plausible**. En imputaci�
 - [[Li and Zhou 2026 - Imaging-based Spatial transcriptomics]] *(lectura)*
 - [[Longo et al 2021 - Integrating single-cell and spatial transcriptomics]] *(lectura)*
 - [[Métodos para el diseño computacional de fármacos]]
+- [[Bouras et al 2026 - Phold]] *(lectura)*
+- [[Fang et al 2026 - A comprehensive review of AI in drug design]] *(lectura)*

@@ -35,3 +35,4 @@ En un pipeline de [[Virtual screening]], el farmacóforo suele ser uno de los **
 ## Aparece en
 
 - [[Métodos para el diseño computacional de fármacos]]
+- [[Fahim 2026 - Structure-based design of antiviral and antihypertensive drugs]] *(lectura)*

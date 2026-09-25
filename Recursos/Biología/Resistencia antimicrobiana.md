@@ -34,3 +34,4 @@ El uso racional de antimicrobianos es la métrica con la que se evalúa el impac
 ## Aparece en
 
 - [[Aplicaciones de la secuenciación con nanoporos en (meta)genómica]]
+- [[Bouras et al 2026 - Phold]] *(lectura)*

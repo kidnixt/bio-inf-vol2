@@ -24,3 +24,4 @@ En proteínas el contraste es menos dramático en tamaño (el vocabulario son 20
 ## Aparece en
 
 - [[Modelos de lenguaje de proteínas y embeddings proteicos]]
+- [[Mikolov et al 2013 - Efficient estimation of word representations]] *(lectura)*

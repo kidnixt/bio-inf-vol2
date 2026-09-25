@@ -30,3 +30,5 @@ Junto con el [[ESM Atlas]] (617 M de estructuras metagenómicas) forma el univer
 
 - [[Métodos para el diseño computacional de fármacos]]
 - [[Modelos de lenguaje de proteínas y embeddings proteicos]]
+- [[Heinzinger et al 2024 - ProstT5]] *(lectura)*
+- [[van Kempen et al 2024 - Foldseek]] *(lectura)*

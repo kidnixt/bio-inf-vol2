@@ -28,3 +28,7 @@ Ver también [[PDB]] (estructuras experimentales) y [[AlphaFold DB]] (estructura
 
 - [[Métodos para el diseño computacional de fármacos]]
 - [[Modelos de lenguaje de proteínas y embeddings proteicos]]
+- [[Asgari and Mofrad 2015 - Continuous distributed representation of biological sequences]] *(lectura)*
+- [[Elnaggar et al 2021 - ProtTrans]] *(lectura)*
+- [[Elnaggar et al 2023 - Ankh]] *(lectura)*
+- [[Heinzinger et al 2019 - SeqVec]] *(lectura)*

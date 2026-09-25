@@ -85,3 +85,12 @@ Es la misma conclusión que la clase 6 saca sobre los scores de [[Docking molecu
 
 - [[Modelos de lenguaje de proteínas y embeddings proteicos]]
 - [[Métodos para el diseño computacional de fármacos]]
+- [[Asgari and Mofrad 2015 - Continuous distributed representation of biological sequences]] *(lectura)*
+- [[Elnaggar et al 2021 - ProtTrans]] *(lectura)*
+- [[Elnaggar et al 2023 - Ankh]] *(lectura)*
+- [[Hayes et al 2025 - Simulating 500 million years of evolution]] *(lectura)*
+- [[Heinzinger et al 2019 - SeqVec]] *(lectura)*
+- [[Heinzinger et al 2024 - ProstT5]] *(lectura)*
+- [[Lin et al 2023 - Evolutionary-scale prediction with a language model]] *(lectura)*
+- [[Mikolov et al 2013 - Efficient estimation of word representations]] *(lectura)*
+- [[Rives et al 2021 - Biological structure and function emerge from scaling]] *(lectura)*

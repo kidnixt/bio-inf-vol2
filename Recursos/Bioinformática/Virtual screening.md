@@ -41,3 +41,7 @@ Ver [[Casos de éxito del diseño computacional de fármacos]] y [[Cribado virtu
 ## Aparece en
 
 - [[Métodos para el diseño computacional de fármacos]]
+- [[Fahim 2026 - Structure-based design of antiviral and antihypertensive drugs]] *(lectura)*
+- [[Fang et al 2026 - A comprehensive review of AI in drug design]] *(lectura)*
+- [[Nazarova et al 2026 - V-SYNTHES2]] *(lectura)*
+- [[Wang et al 2024 - Active learning in drug discovery]] *(lectura)*

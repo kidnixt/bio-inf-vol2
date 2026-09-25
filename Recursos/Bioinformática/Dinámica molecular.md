@@ -33,3 +33,4 @@ En los casos del curso aparece como **el paso de confirmación** antes del bioen
 ## Aparece en
 
 - [[Métodos para el diseño computacional de fármacos]]
+- [[Fahim 2026 - Structure-based design of antiviral and antihypertensive drugs]] *(lectura)*

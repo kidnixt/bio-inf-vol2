@@ -31,3 +31,4 @@ Y es **la base más chica de todas**: 2,9·10⁴ complejos, frente a 10⁶ compu
 ## Aparece en
 
 - [[Métodos para el diseño computacional de fármacos]]
+- [[Fang et al 2026 - A comprehensive review of AI in drug design]] *(lectura)*

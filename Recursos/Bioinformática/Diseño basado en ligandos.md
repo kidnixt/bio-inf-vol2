@@ -39,3 +39,4 @@ En una situación real **se combina con [[Diseño basado en estructura|SBDD]]**:
 ## Aparece en
 
 - [[Métodos para el diseño computacional de fármacos]]
+- [[Wang et al 2024 - Active learning in drug discovery]] *(lectura)*
